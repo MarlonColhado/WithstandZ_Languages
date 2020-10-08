@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="ru" LangName="Русский">
+  <ReSpawn>Возрождение</ReSpawn>
+  <ReSpawnItem>Spawn with a Random Weapon
+(Video Ad)</ReSpawnItem>
+  <SinglePlayer>Одиночный</SinglePlayer>
+  <MultiPlayer>Многопользовательский</MultiPlayer>
+  <StartGame>Начать игру</StartGame>
+  <ChooseLevel>Выбрать карту</ChooseLevel>
+  <SelectLevel>Выбрать карту</SelectLevel>
+  <CharacterList>Список персонажей</CharacterList>
+  <NewCharacter>Новый персонаж</NewCharacter>
+  <CreateNewCharacter>Создать персонажа</CreateNewCharacter>
+  <HostGame>Создать игру</HostGame>
+  <FindGame>Найти игру</FindGame>
+  <ConnectIP>Подключится по IP</ConnectIP>
+  <messageCreateHost>Имя сервера</messageCreateHost>
+  <messagePvPServer>PvP (игроки могут убивать друг друга)</messagePvPServer>
+  <VisibleInServerList>Сохранять постройки других игроков</VisibleInServerList>
+  <ServerList>Список серверов</ServerList>
+  <CreateGame>Создать игру</CreateGame>
+  <messageConnectIP>Подключено к серверу</messageConnectIP>
+  <EnterWorld>Начать</EnterWorld>
+  <Inventory>Инвентарь</Inventory>
+  <Craft>Крафт</Craft>
+  <Items>Вещи</Items>
+  <Use>Использовать</Use>
+  <Open>Открыть</Open>
+  <Close>Закрыть</Close>
+  <Door>Дверь</Door>
+  <Drop>Бросить</Drop>
+  <PressPickup>Нажмите копку Поднять</PressPickup>
+  <Connect>Подключится</Connect>
+  <Join>Присоеденится</Join>
+  <Refresh>Обновить</Refresh>
+  <Host>Создать</Host>
+  <Cancel>Отмена</Cancel>
+  <Delete>Удалить</Delete>
+  <Select>Выбрать</Select>
+  <Play>Играть</Play>
+  <Back>Назад</Back>
+  <Exit>Выход</Exit>
+  <Backpack>Рюкзак</Backpack>
+  <Attach>Attach</Attach>
+  <Detach>Detach</Detach>
+  <Attachs>Улучшения</Attachs>
+  <Player>Игрок</Player>
+  <Players>Игроков</Players>
+  <ViewDistance>Дальность прорисовки</ViewDistance>
+  <CurrentQuality>Качество графики:</CurrentQuality>
+  <ChangeQuality>Изменить качество</ChangeQuality>
+  <HighQuality>высокое</HighQuality>
+  <NormalQuality>нормальное</NormalQuality>
+  <CameraSensitivity>Чувствительность камеры</CameraSensitivity>
+  <Policeman>Полицейский</Policeman>
+  <Farmer>Фермер</Farmer>
+  <SalaryMan>Банкир</SalaryMan>
+  <Girl>Девушка</Girl>
+  <Doctor>Доктор</Doctor>
+  <Resume>Вернутся</Resume>
+  <Disconnect>Отключится</Disconnect>
+  <MainMenu>Главное меню</MainMenu>
+  <MessageHostServer>ВЫ СОЗДАТЕЛЬ СЕРВЕРА</MessageHostServer>
+  <MessagePlayerServer>ВЫ ИГРАЕТЕ ОНЛАЙН</MessagePlayerServer>
+  <ConnectingToServer>Подключение к сереру</ConnectingToServer>
+  <ConnectionTimeout>Превышен интервал подключения</ConnectionTimeout>
+  <ConnectionFull>Сервер полон!</ConnectionFull>
+  <ConnectedLoadingObjects>Подключено! Загрузка игровых объектов</ConnectedLoadingObjects>
+  <JoinedRoom>подключился!</JoinedRoom>
+  <LeftRoom>вышел!</LeftRoom>
+  <WaitMaster>Подключение к мастер-серверу.</WaitMaster>
+  <ConnectedMaster>Подключено!</ConnectedMaster>
+  <ErrorMaster>Произошла ошибка, проверьте подключение к интернету!</ErrorMaster>
+  <Options>Настройки</Options>
+  <ThemeMusic>Main Menu Theme by Flo Rian</ThemeMusic>
+  <TheMessageOfMother>Модификация была обнаружимы в игре.
+Скачать оригинальную игру:</TheMessageOfMother>
+  <Slots>
+    <string>Слот</string>
+    <string>Слота</string>
+    <string>Слотов</string>
+  </Slots>
+  <WatchAdToCraftCoins>Смотреть объявление (Заработать 10 монет)</WatchAdToCraftCoins>
+  <WatchAdWait>Смотреть объявление (Подождите, погрузка...)</WatchAdWait>
+  <auto>Автоматически</auto>
+  <us>США, Восток</us>
+  <usw>США, Запад</usw>
+  <sa>Южная Америка</sa>
+  <ru>Россия</ru>
+  <rue>Россия, Восток</rue>
+  <eu>Европа</eu>
+  <cae>Канада</cae>
+  <jp>Япония</jp>
+  <au>Австралия</au>
+  <asia>Азия</asia>
+  <kr>Южная Корея</kr>
+  <in>Индия</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>Пистолет</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>Винтовочные патроны</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>Молоток</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>Консервировання фасоль</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>Дробовик</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>Снайперская винтовка</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>Barrett</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>Магнум</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>Hunting Shotgun</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>Бинт</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 mm</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>Винтовочные патроны</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>Гильза</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357 Магнум</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>Бутылка воды</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>Граната</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>Костёр</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>SMG</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50cal</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>Дерево</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>Фрагмент металла</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>Мачете</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>Топор</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>Ткань</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>Фонарь</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>Фундамент</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>Столп</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>Стена</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>Крыша</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>Лесница</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>Окно</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>Дверь</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>Деревянный комод</Name>
+    </Item>
+    <Item ItemID="35">
+      <Name>Лесница на кышу</Name>
+    </Item>
+    <Item ItemID="36">
+      <Name>Деревянная дверь</Name>
+    </Item>
+    <Item ItemID="37">
+      <Name>Спальный мешок</Name>
+    </Item>
+    <Item ItemID="38">
+      <Name>Пожарный топор</Name>
+    </Item>
+    <Item ItemID="39">
+      <Name>Бейсбольная бита</Name>
+    </Item>
+    <Item ItemID="40">
+      <Name>Бейсбольная бита</Name>
+    </Item>
+    <Item ItemID="41">
+      <Name>Пакет с кровью</Name>
+    </Item>
+    <Item ItemID="42">
+      <Name>Енергетический напиток</Name>
+    </Item>
+    <Item ItemID="43">
+      <Name>Енергетический напиток</Name>
+    </Item>
+    <Item ItemID="44">
+      <Name>Яблоко</Name>
+    </Item>
+    <Item ItemID="45">
+      <Name>Банан</Name>
+    </Item>
+    <Item ItemID="46">
+      <Name>Шоколадный батончик</Name>
+    </Item>
+    <Item ItemID="47">
+      <Name>Шоколадный батончик</Name>
+    </Item>
+    <Item ItemID="48">
+      <Name>Шоколадный батончик</Name>
+    </Item>
+    <Item ItemID="49">
+      <Name>Апельсин</Name>
+    </Item>
+    <Item ItemID="50">
+      <Name>Аптечка</Name>
+    </Item>
+    <Item ItemID="51">
+      <Name>Молоко</Name>
+    </Item>
+    <Item ItemID="52">
+      <Name>Вакцина</Name>
+    </Item>
+    <Item ItemID="53">
+      <Name>Антибиотик</Name>
+    </Item>
+    <Item ItemID="54">
+      <Name>Настенный факел</Name>
+    </Item>
+    <Item ItemID="55">
+      <Name>Стена с шипами</Name>
+    </Item>
+    <Item ItemID="56">
+      <Name>Гараж</Name>
+    </Item>
+    <Item ItemID="57">
+      <Name>Гаражная дверь</Name>
+    </Item>
+    <Item ItemID="58">
+      <Name>Консервированная паста</Name>
+    </Item>
+    <Item ItemID="59">
+      <Name>Консервированный бекон</Name>
+    </Item>
+    <Item ItemID="60">
+      <Name>Консервированные сардины</Name>
+    </Item>
+    <Item ItemID="61">
+      <Name>Мина</Name>
+    </Item>
+    <Item ItemID="62">
+      <Name>Фонарь</Name>
+    </Item>
+    <Item ItemID="63">
+      <Name>Рукоять</Name>
+    </Item>
+    <Item ItemID="64">
+      <Name>Лазерный прицел</Name>
+    </Item>
+    <Item ItemID="65">
+      <Name>Прицел</Name>
+    </Item>
+    <Item ItemID="66">
+      <Name>Глушитель</Name>
+    </Item>
+    <Item ItemID="67">
+      <Name>Самодельная взрывчатка</Name>
+    </Item>
+    <Item ItemID="68">
+      <Name>Маленький рюкзак</Name>
+    </Item>
+    <Item ItemID="69">
+      <Name>Средний рюкзак</Name>
+    </Item>
+    <Item ItemID="70">
+      <Name>Большой рюкзак</Name>
+    </Item>
+    <Item ItemID="71">
+      <Name>Охотничий рюкзак</Name>
+    </Item>
+    <Item ItemID="72">
+      <Name>Военный рюкзак</Name>
+    </Item>
+    <Item ItemID="73">
+      <Name>Mauser 98</Name>
+    </Item>
+    <Item ItemID="74">
+      <Name>Remington</Name>
+    </Item>
+    <Item ItemID="75">
+      <Name>Desert Eagle</Name>
+    </Item>
+    <Item ItemID="76">
+      <Name>Дробовик</Name>
+    </Item>
+    <Item ItemID="77">
+      <Name>Обрез</Name>
+    </Item>
+    <Item ItemID="78">
+      <Name>Револьвер #1</Name>
+    </Item>
+    <Item ItemID="79">
+      <Name>Револьвер #2</Name>
+    </Item>
+    <Item ItemID="80">
+      <Name>TMPSMG</Name>
+    </Item>
+    <Item ItemID="81">
+      <Name>Патроны для Desert Eagle</Name>
+    </Item>
+    <Item ItemID="82">
+      <Name>Патроны для Mauser/Remington</Name>
+    </Item>
+    <Item ItemID="83">
+      <Name>Новая гильза</Name>
+    </Item>
+    <Item ItemID="84">
+      <Name>Патроны для револьвера</Name>
+    </Item>
+    <Item ItemID="85">
+      <Name>Катана</Name>
+    </Item>
+  </ItemsList>
+</Language>

@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="es_ES" LangName="Español">
+  <ReSpawn>Resucitar</ReSpawn>
+  <ReSpawnItem>Spawn with a Random Weapon
+(Video Ad)</ReSpawnItem>
+  <SinglePlayer>Un jugador</SinglePlayer>
+  <MultiPlayer>Multi Jugador (BETA)</MultiPlayer>
+  <StartGame>Comenzar Juego</StartGame>
+  <ChooseLevel>Elegir Mapa</ChooseLevel>
+  <SelectLevel>Seleccionar Mapa</SelectLevel>
+  <CharacterList>Personajes</CharacterList>
+  <NewCharacter>Nuevo Personaje</NewCharacter>
+  <CreateNewCharacter>Crear Nuevo Personaje</CreateNewCharacter>
+  <HostGame>Crear Servidor</HostGame>
+  <FindGame>Lista de Servidores</FindGame>
+  <ConnectIP>Conectar por IP</ConnectIP>
+  <messageCreateHost>Server Name</messageCreateHost>
+  <messagePvPServer>PvP (jugadores pueden matar otros)</messagePvPServer>
+  <VisibleInServerList>Guardar estructuras de otros jugadores</VisibleInServerList>
+  <ServerList>Servidores</ServerList>
+  <CreateGame>Crear servidor</CreateGame>
+  <messageConnectIP>Conectar con la IP</messageConnectIP>
+  <EnterWorld>Entrar en el mundo</EnterWorld>
+  <Inventory>Inventario</Inventory>
+  <Craft>Craft</Craft>
+  <Items>Items</Items>
+  <Use>Usar</Use>
+  <Open>Abrir</Open>
+  <Close>Cerrar</Close>
+  <Door>Puerta</Door>
+  <Drop>Drop</Drop>
+  <PressPickup>Pulse el botón de obtener</PressPickup>
+  <Connect>Conectar</Connect>
+  <Join>Entrar</Join>
+  <Refresh>Actualización</Refresh>
+  <Host>Crear</Host>
+  <Cancel>Cancelar</Cancel>
+  <Delete>Eliminar</Delete>
+  <Select>Seleccione</Select>
+  <Play>Jugar</Play>
+  <Back>Atrás</Back>
+  <Exit>Salir</Exit>
+  <Backpack>Backpack</Backpack>
+  <Attach>Attach</Attach>
+  <Detach>Detach</Detach>
+  <Attachs>Attachs</Attachs>
+  <Player>Players</Player>
+  <Players>Players</Players>
+  <ViewDistance>View Distance</ViewDistance>
+  <CurrentQuality>Current Quality:</CurrentQuality>
+  <ChangeQuality>Change Quality</ChangeQuality>
+  <HighQuality>High</HighQuality>
+  <NormalQuality>Normal</NormalQuality>
+  <CameraSensitivity>Sensibilidad Cámara</CameraSensitivity>
+  <Policeman>Policía</Policeman>
+  <Farmer>Agricultor</Farmer>
+  <SalaryMan>Empresario</SalaryMan>
+  <Girl>Chica</Girl>
+  <Doctor>Medico</Doctor>
+  <Resume>Continuar</Resume>
+  <Disconnect>Desconectar</Disconnect>
+  <MainMenu>Main Menu</MainMenu>
+  <MessageHostServer>USTED ESTA HOSTEANDO ESTE SERVIDOR</MessageHostServer>
+  <MessagePlayerServer>USTED ESTA JUGANDO EN LINEA</MessagePlayerServer>
+  <ConnectingToServer>Conectando a el servidor</ConnectingToServer>
+  <ConnectionTimeout>Error de conexión!</ConnectionTimeout>
+  <ConnectionFull>Room Full!</ConnectionFull>
+  <ConnectedLoadingObjects>CONECTADO! CARGANDO, ESPERA...</ConnectedLoadingObjects>
+  <JoinedRoom>entró en el juego!</JoinedRoom>
+  <LeftRoom>dejó el juego!</LeftRoom>
+  <WaitMaster>Conexión a Master Server</WaitMaster>
+  <ConnectedMaster>Conectado!</ConnectedMaster>
+  <ErrorMaster>No se pudo conectar, comprobar el internet!</ErrorMaster>
+  <Options>Opciones</Options>
+  <ThemeMusic>Main Menu Theme by Flo Rian</ThemeMusic>
+  <TheMessageOfMother>Una modificación detectada en el juego!
+Baje el juego original:</TheMessageOfMother>
+  <Slots>
+    <string>Slots</string>
+    <string>Slots</string>
+    <string>Slots</string>
+  </Slots>
+  <WatchAdToCraftCoins>Ver un Ad (Gana 10 Coins)</WatchAdToCraftCoins>
+  <WatchAdWait>Ver un Ad (Espera, Cargando...)</WatchAdWait>
+  <auto>Automatico</auto>
+  <us>Estados Unidos, Este</us>
+  <usw>Estados Unidos, Oeste</usw>
+  <sa>América Latina</sa>
+  <ru>Rusia</ru>
+  <rue>Rusia, Este</rue>
+  <eu>Europa</eu>
+  <cae>Canada</cae>
+  <jp>Japón</jp>
+  <au>Australia</au>
+  <asia>Asia</asia>
+  <kr>Corea del Sur</kr>
+  <in>India</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>Pistol</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>Rifle Ammo</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>Hammer</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>Canned Beans</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>Shotgun</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>Sniper</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>Barrett</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>Magnum</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>Hunting Shotgun</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>Bandage</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 mm</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>Rifle Ammo</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>Shell</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357 Magnum</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>Water Bottle</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>Granade</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>CampFire</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>SMG</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50cal</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>Wood</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>MetalFragment</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>Machete</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>Axe</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>Fabric</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>Flash Light</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>Foundation</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>Collumn</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>Wall</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>Roof</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>Ladder</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>Window</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>Door</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>WoodChest</Name>
+    </Item>
+    <Item ItemID="35">
+      <Name>RoofLadder</Name>
+    </Item>
+    <Item ItemID="36">
+      <Name>WoodDoor</Name>
+    </Item>
+    <Item ItemID="37">
+      <Name>SleepingBag</Name>
+    </Item>
+    <Item ItemID="38">
+      <Name>Fire Axe</Name>
+    </Item>
+    <Item ItemID="39">
+      <Name>Baseball Bat</Name>
+    </Item>
+    <Item ItemID="40">
+      <Name>Baseball Bat</Name>
+    </Item>
+    <Item ItemID="41">
+      <Name>BloodBag</Name>
+    </Item>
+    <Item ItemID="42">
+      <Name>Energy Drink</Name>
+    </Item>
+    <Item ItemID="43">
+      <Name>Energy Drink</Name>
+    </Item>
+    <Item ItemID="44">
+      <Name>Apple</Name>
+    </Item>
+    <Item ItemID="45">
+      <Name>Banana</Name>
+    </Item>
+    <Item ItemID="46">
+      <Name>Chocolate Bar</Name>
+    </Item>
+    <Item ItemID="47">
+      <Name>Chocolate Bar</Name>
+    </Item>
+    <Item ItemID="48">
+      <Name>Chocolate Bar</Name>
+    </Item>
+    <Item ItemID="49">
+      <Name>Orange</Name>
+    </Item>
+    <Item ItemID="50">
+      <Name>Medic Kit</Name>
+    </Item>
+    <Item ItemID="51">
+      <Name>Milk Carton</Name>
+    </Item>
+    <Item ItemID="52">
+      <Name>Infection Vaccine</Name>
+    </Item>
+    <Item ItemID="53">
+      <Name>Antibiotic</Name>
+    </Item>
+    <Item ItemID="54">
+      <Name>Wall Torch</Name>
+    </Item>
+    <Item ItemID="55">
+      <Name>SpikeWall</Name>
+    </Item>
+    <Item ItemID="56">
+      <Name>Garage</Name>
+    </Item>
+    <Item ItemID="57">
+      <Name>Garage Door</Name>
+    </Item>
+    <Item ItemID="58">
+      <Name>Canned Pasta</Name>
+    </Item>
+    <Item ItemID="59">
+      <Name>Canned Bacon</Name>
+    </Item>
+    <Item ItemID="60">
+      <Name>Canned Sardines</Name>
+    </Item>
+    <Item ItemID="61">
+      <Name>Claymore</Name>
+    </Item>
+    <Item ItemID="62">
+      <Name>Attach_Flashlight</Name>
+    </Item>
+    <Item ItemID="63">
+      <Name>Attach_Foregrip</Name>
+    </Item>
+    <Item ItemID="64">
+      <Name>Attach_Laser</Name>
+    </Item>
+    <Item ItemID="65">
+      <Name>Attach_Sight</Name>
+    </Item>
+    <Item ItemID="66">
+      <Name>Attach_Silencer</Name>
+    </Item>
+    <Item ItemID="67">
+      <Name>Pipebomb</Name>
+    </Item>
+    <Item ItemID="68">
+      <Name>Small Backpack</Name>
+    </Item>
+    <Item ItemID="69">
+      <Name>Medium Backpack</Name>
+    </Item>
+    <Item ItemID="70">
+      <Name>Large Backpack</Name>
+    </Item>
+    <Item ItemID="71">
+      <Name>Hunting Backpack</Name>
+    </Item>
+    <Item ItemID="72">
+      <Name>ALICE Backpack</Name>
+    </Item>
+    <Item ItemID="73">
+      <Name>Mauser 98</Name>
+    </Item>
+    <Item ItemID="74">
+      <Name>Remington</Name>
+    </Item>
+    <Item ItemID="75">
+      <Name>Desert Eagle</Name>
+    </Item>
+    <Item ItemID="76">
+      <Name>Shotgun</Name>
+    </Item>
+    <Item ItemID="77">
+      <Name>Sawn-Off Shotgun</Name>
+    </Item>
+    <Item ItemID="78">
+      <Name>Revolver</Name>
+    </Item>
+    <Item ItemID="79">
+      <Name>Revolver </Name>
+    </Item>
+    <Item ItemID="80">
+      <Name>TMPSMG</Name>
+    </Item>
+    <Item ItemID="81">
+      <Name>Desert Eagle Ammo</Name>
+    </Item>
+    <Item ItemID="82">
+      <Name>Mauser/Remington Ammo</Name>
+    </Item>
+    <Item ItemID="83">
+      <Name>New Shell</Name>
+    </Item>
+    <Item ItemID="84">
+      <Name>Revolver Ammo</Name>
+    </Item>
+    <Item ItemID="85">
+      <Name>Katana</Name>
+    </Item>
+  </ItemsList>
+</Language>

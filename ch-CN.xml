@@ -1,0 +1,359 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="chs_CN" LangName="官话">
+  <ReSpawn>重生</ReSpawn>
+  <ReSpawnItem>Spawn with a Random Weapon
+(Video Ad)</ReSpawnItem>
+  <SinglePlayer>单人游戏</SinglePlayer>
+  <MultiPlayer>多人游戏 (测试版)</MultiPlayer>
+  <StartGame>开始游戏</StartGame>
+  <ChooseLevel>选择地图</ChooseLevel>
+  <SelectLevel>选择地图</SelectLevel>
+  <CharacterList>选择角色</CharacterList>
+  <NewCharacter>新建角色</NewCharacter>
+  <CreateNewCharacter>创建一个新角色</CreateNewCharacter>
+  <HostGame>创建游戏</HostGame>
+  <FindGame>查找游戏</FindGame>
+  <ConnectIP>通过IP搜索游戏</ConnectIP>
+  <messageCreateHost>房间名</messageCreateHost>
+  <messagePvPServer>PvP (players can kill others)</messagePvPServer>
+  <VisibleInServerList>保留其他玩家的建筑</VisibleInServerList>
+  <ServerList>服务器列表</ServerList>
+  <CreateGame>创建游戏</CreateGame>
+  <messageConnectIP>连接服务器IP</messageConnectIP>
+  <EnterWorld>进入游戏</EnterWorld>
+  <Inventory>背包</Inventory>
+  <Craft>制造</Craft>
+  <Items>物品</Items>
+  <Use>使用</Use>
+  <Open>打开</Open>
+  <Close>关闭</Close>
+  <Door>门</Door>
+  <Drop>扔下</Drop>
+  <PressPickup>按下拾取键</PressPickup>
+  <Connect>连接</Connect>
+  <Join>加入</Join>
+  <Refresh>刷新</Refresh>
+  <Host>创建游戏</Host>
+  <Cancel>取消</Cancel>
+  <Delete>删除</Delete>
+  <Select>选择</Select>
+  <Play>开始生存！</Play>
+  <Back>返回</Back>
+  <Exit>退出</Exit>
+  <Backpack>背包</Backpack>
+  <Attach>配件</Attach>
+  <Detach>Detach</Detach>
+  <Attachs>附件</Attachs>
+  <Player>Players</Player>
+  <Players>Players</Players>
+  <ViewDistance>View Distance</ViewDistance>
+  <CurrentQuality>Current Quality:</CurrentQuality>
+  <ChangeQuality>Change Quality</ChangeQuality>
+  <HighQuality>High</HighQuality>
+  <NormalQuality>Normal</NormalQuality>
+  <CameraSensitivity>相機靈敏度</CameraSensitivity>
+  <Policeman>警察</Policeman>
+  <Farmer>农民</Farmer>
+  <SalaryMan>白领</SalaryMan>
+  <Girl>女孩</Girl>
+  <Doctor>医生</Doctor>
+  <Resume>继续游戏</Resume>
+  <Disconnect>断开连接</Disconnect>
+  <MainMenu>主菜单</MainMenu>
+  <MessageHostServer>正在以房主的身份进行多人游戏</MessageHostServer>
+  <MessagePlayerServer>正在进行多人游戏</MessagePlayerServer>
+  <ConnectingToServer>连接至服务器中</ConnectingToServer>
+  <ConnectionTimeout>连接超时</ConnectionTimeout>
+  <ConnectionFull>房间满员了！</ConnectionFull>
+  <ConnectedLoadingObjects>已连接！正在加载游戏中</ConnectedLoadingObjects>
+  <JoinedRoom>加入了游戏！</JoinedRoom>
+  <LeftRoom>离开了游戏！</LeftRoom>
+  <WaitMaster>正在连接至主服务器</WaitMaster>
+  <ConnectedMaster>已连接！</ConnectedMaster>
+  <ErrorMaster>连接时发生错误, 请检查你的网络连接情况！</ErrorMaster>
+  <Options>设置</Options>
+  <ThemeMusic>主菜单主题曲由 Flo Rian 制作
+Chinese Language: dody DaWoJ4JI  忘却的旋律</ThemeMusic>
+  <TheMessageOfMother>在遊戲中檢測到的變化。
+下載原始的遊戲：</TheMessageOfMother>
+  <Slots>
+    <string>Slots</string>
+    <string>Slots</string>
+    <string>Slots</string>
+  </Slots>
+  <WatchAdToCraftCoins>觀看廣告 (賺取10個硬幣)</WatchAdToCraftCoins>
+  <WatchAdWait>觀看廣告 (等等，載入中...)</WatchAdWait>
+  <auto>随机</auto>
+  <us>美国, 东部</us>
+  <usw>美国, 西部</usw>
+  <sa>南美洲</sa>
+  <ru>俄国</ru>
+  <rue>俄国, 东部</rue>
+  <eu>欧洲</eu>
+  <cae>加拿大</cae>
+  <jp>日本</jp>
+  <au>澳大利亚</au>
+  <asia>亚洲</asia>
+  <kr>韩国</kr>
+  <in>印度</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47 自动步枪</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>9毫米 手枪</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>步枪子弹</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>锤子</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>罐装豆子</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>霰弹枪</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>AWM 狙击枪</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>巴雷特 狙击枪</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4 自动步枪</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>马格南 手枪</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>狩猎霰弹枪</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>绷带</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9毫米</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>步枪子弹</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>霰弹子弹</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357马格南 手枪</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>瓶装水</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>手榴弹</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>篝火</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>9毫米 冲锋枪</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>.50口径子弹</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>木头</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>金属碎片</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>砍刀</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>斧头</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>碎布</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>手电筒</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>地基</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>柱子</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>墙</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>屋顶</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>梯子</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>窗户</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>门</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>木箱</Name>
+    </Item>
+    <Item ItemID="35">
+      <Name>屋顶的梯子</Name>
+    </Item>
+    <Item ItemID="36">
+      <Name>木门</Name>
+    </Item>
+    <Item ItemID="37">
+      <Name>睡袋</Name>
+    </Item>
+    <Item ItemID="38">
+      <Name>消防斧</Name>
+    </Item>
+    <Item ItemID="39">
+      <Name>棒球棒</Name>
+    </Item>
+    <Item ItemID="40">
+      <Name>棒球棒</Name>
+    </Item>
+    <Item ItemID="41">
+      <Name>血包</Name>
+    </Item>
+    <Item ItemID="42">
+      <Name>能量饮料</Name>
+    </Item>
+    <Item ItemID="43">
+      <Name>能量饮料</Name>
+    </Item>
+    <Item ItemID="44">
+      <Name>苹果</Name>
+    </Item>
+    <Item ItemID="45">
+      <Name>香蕉</Name>
+    </Item>
+    <Item ItemID="46">
+      <Name>巧克力棒</Name>
+    </Item>
+    <Item ItemID="47">
+      <Name>巧克力棒</Name>
+    </Item>
+    <Item ItemID="48">
+      <Name>巧克力棒</Name>
+    </Item>
+    <Item ItemID="49">
+      <Name>橘子</Name>
+    </Item>
+    <Item ItemID="50">
+      <Name>医疗包</Name>
+    </Item>
+    <Item ItemID="51">
+      <Name>牛奶</Name>
+    </Item>
+    <Item ItemID="52">
+      <Name>疫苗</Name>
+    </Item>
+    <Item ItemID="53">
+      <Name>抗生素</Name>
+    </Item>
+    <Item ItemID="54">
+      <Name>火把</Name>
+    </Item>
+    <Item ItemID="55">
+      <Name>刺堆</Name>
+    </Item>
+    <Item ItemID="56">
+      <Name>仓库门框</Name>
+    </Item>
+    <Item ItemID="57">
+      <Name>仓库门</Name>
+    </Item>
+    <Item ItemID="58">
+      <Name>罐装通心粉</Name>
+    </Item>
+    <Item ItemID="59">
+      <Name>罐装培根</Name>
+    </Item>
+    <Item ItemID="60">
+      <Name>罐装沙丁鱼</Name>
+    </Item>
+    <Item ItemID="61">
+      <Name>阔剑地雷</Name>
+    </Item>
+    <Item ItemID="62">
+      <Name>配件_手电</Name>
+    </Item>
+    <Item ItemID="63">
+      <Name>配件_前握把</Name>
+    </Item>
+    <Item ItemID="64">
+      <Name>配件_镭射</Name>
+    </Item>
+    <Item ItemID="65">
+      <Name>配件_瞄准镜</Name>
+    </Item>
+    <Item ItemID="66">
+      <Name>配件_消音器</Name>
+    </Item>
+    <Item ItemID="67">
+      <Name>土制手雷</Name>
+    </Item>
+    <Item ItemID="68">
+      <Name>小型背包</Name>
+    </Item>
+    <Item ItemID="69">
+      <Name>中型背包</Name>
+    </Item>
+    <Item ItemID="70">
+      <Name>大型背包</Name>
+    </Item>
+    <Item ItemID="71">
+      <Name>狩猎背包</Name>
+    </Item>
+    <Item ItemID="72">
+      <Name>爱丽丝背包</Name>
+    </Item>
+    <Item ItemID="73">
+      <Name>毛瑟 98 狙击枪</Name>
+    </Item>
+    <Item ItemID="74">
+      <Name>雷明顿 狙击枪</Name>
+    </Item>
+    <Item ItemID="75">
+      <Name>沙漠之鹰 手枪</Name>
+    </Item>
+    <Item ItemID="76">
+      <Name>霰弹枪</Name>
+    </Item>
+    <Item ItemID="77">
+      <Name>短管霰弹枪</Name>
+    </Item>
+    <Item ItemID="78">
+      <Name>左轮 手枪 #1</Name>
+    </Item>
+    <Item ItemID="79">
+      <Name>左轮 手枪 #2</Name>
+    </Item>
+    <Item ItemID="80">
+      <Name>TMP 冲锋枪</Name>
+    </Item>
+    <Item ItemID="81">
+      <Name>沙漠之鹰弹药</Name>
+    </Item>
+    <Item ItemID="82">
+      <Name>毛瑟/雷明顿弹药</Name>
+    </Item>
+    <Item ItemID="83">
+      <Name>新霰弹弹药</Name>
+    </Item>
+    <Item ItemID="84">
+      <Name>左轮弹药</Name>
+    </Item>
+    <Item ItemID="85">
+      <Name>武士刀</Name>
+    </Item>
+  </ItemsList>
+</Language>

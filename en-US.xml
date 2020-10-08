@@ -1,0 +1,358 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="en_US">
+  <ReSpawn>Re Spawn</ReSpawn>
+  <ReSpawnItem>Spawn with a Random Weapon
+(Video Ad)</ReSpawnItem>
+  <SinglePlayer>SinglePlayer</SinglePlayer>
+  <MultiPlayer>MultiPlayer (BETA)</MultiPlayer>
+  <StartGame>Start Game</StartGame>
+  <ChooseLevel>Choose Level</ChooseLevel>
+  <SelectLevel>Select Level</SelectLevel>
+  <CharacterList>Character List</CharacterList>
+  <NewCharacter>New Character</NewCharacter>
+  <CreateNewCharacter>Create New Character</CreateNewCharacter>
+  <HostGame>Host Game</HostGame>
+  <FindGame>Find Game</FindGame>
+  <ConnectIP>Connect IP</ConnectIP>
+  <messageCreateHost>Server Name</messageCreateHost>
+  <messagePvPServer>PvP (players can kill others)</messagePvPServer>
+  <VisibleInServerList>Save structures from other players</VisibleInServerList>
+  <ServerList>Server List</ServerList>
+  <CreateGame>Create Game</CreateGame>
+  <messageConnectIP>Connect With Server IP</messageConnectIP>
+  <EnterWorld>Enter World</EnterWorld>
+  <Inventory>Inventory</Inventory>
+  <Craft>Craft</Craft>
+  <Items>Items</Items>
+  <Use>Use</Use>
+  <Open>Open</Open>
+  <Close>Close</Close>
+  <Door>Door</Door>
+  <Drop>Drop</Drop>
+  <PressPickup>Press the pickup button</PressPickup>
+  <Connect>Connect</Connect>
+  <Join>Join</Join>
+  <Refresh>Refresh</Refresh>
+  <Host>Host</Host>
+  <Cancel>Cancel</Cancel>
+  <Delete>Delete</Delete>
+  <Select>Select</Select>
+  <Play>Play</Play>
+  <Back>Back</Back>
+  <Exit>Exit</Exit>
+  <Backpack>Backpack</Backpack>
+  <Attach>Attach</Attach>
+  <Detach>Detach</Detach>
+  <Attachs>Attachs</Attachs>
+  <Player>Players</Player>
+  <Players>Players</Players>
+  <ViewDistance>View Distance</ViewDistance>
+  <CurrentQuality>Current Quality:</CurrentQuality>
+  <ChangeQuality>Change Quality</ChangeQuality>
+  <HighQuality>High</HighQuality>
+  <NormalQuality>Normal</NormalQuality>
+  <CameraSensitivity>Camera Sensitivity</CameraSensitivity>
+  <Policeman>PoliceMan</Policeman>
+  <Farmer>Farmer</Farmer>
+  <SalaryMan>SalaryMan</SalaryMan>
+  <Girl>Girl</Girl>
+  <Doctor>Doctor</Doctor>
+  <Resume>Resume</Resume>
+  <Disconnect>Disconnect</Disconnect>
+  <MainMenu>Main Menu</MainMenu>
+  <MessageHostServer>YOU ARE THE SERVER HOST</MessageHostServer>
+  <MessagePlayerServer>YOU ARE PLAYING ONLINE</MessagePlayerServer>
+  <ConnectingToServer>Connecting to server</ConnectingToServer>
+  <ConnectionTimeout>Connecting Time out</ConnectionTimeout>
+  <ConnectionFull>Room Full!</ConnectionFull>
+  <ConnectedLoadingObjects>Connected! Loading GameOBject</ConnectedLoadingObjects>
+  <JoinedRoom>joined the game!</JoinedRoom>
+  <LeftRoom>left the game!</LeftRoom>
+  <WaitMaster>Connecting to master server</WaitMaster>
+  <ConnectedMaster>Connected!</ConnectedMaster>
+  <ErrorMaster>There was an error connecting, check your internet!</ErrorMaster>
+  <Options>Options</Options>
+  <ThemeMusic>Main Menu Theme by Flo Rian</ThemeMusic>
+  <TheMessageOfMother>A modification was detected in the game!
+download original game:</TheMessageOfMother>
+  <Slots>
+    <string>Slots</string>
+    <string>Slots</string>
+    <string>Slots</string>
+  </Slots>
+  <WatchAdToCraftCoins>Watch Ad (Earn 10 Coin)</WatchAdToCraftCoins>
+  <WatchAdWait>Watch Ad (Wait, Loading Ad...)</WatchAdWait>
+  <auto>Automatic</auto>
+  <us>USA, East</us>
+  <usw>USA, West</usw>
+  <sa>South America</sa>
+  <ru>Russia</ru>
+  <rue>Russia, East</rue>
+  <eu>Europe</eu>
+  <cae>Canada</cae>
+  <jp>Japan</jp>
+  <au>Australia</au>
+  <asia>Asia</asia>
+  <kr>South Korea</kr>
+  <in>India</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>Pistola</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>Munição de Rifle</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>Martelo</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>Lata de Feijão</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>Shotgun</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>Sniper</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>Barrett</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>Magnum</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>Hunting Shotgun</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>Curativo</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 mm</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>Munição de Rifle</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>Shell</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357 Magnum</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>Garrafa de Agua</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>Granada</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>Fogueira</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>SMG</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50cal</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>Madeira</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>Fragmento de Metal</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>Facão</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>Machado</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>Tecido</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>Lanterna</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>Fundação</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>Coluna</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>Parede</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>Teto</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>Escada</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>Parede com Janela</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>Parede com Porta</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>Bau de Madeira</Name>
+    </Item>
+    <Item ItemID="35">
+      <Name>Teto para Escada</Name>
+    </Item>
+    <Item ItemID="36">
+      <Name>Porta</Name>
+    </Item>
+    <Item ItemID="37">
+      <Name>SleepingBag</Name>
+    </Item>
+    <Item ItemID="38">
+      <Name>Machado de Bombeiro</Name>
+    </Item>
+    <Item ItemID="39">
+      <Name>Bastão de Beisebol</Name>
+    </Item>
+    <Item ItemID="40">
+      <Name>Bastão de Beisebol</Name>
+    </Item>
+    <Item ItemID="41">
+      <Name>Bolsa de Sangue</Name>
+    </Item>
+    <Item ItemID="42">
+      <Name>Bebida Energetica</Name>
+    </Item>
+    <Item ItemID="43">
+      <Name>Bebida Energetica</Name>
+    </Item>
+    <Item ItemID="44">
+      <Name>Maçã</Name>
+    </Item>
+    <Item ItemID="45">
+      <Name>Banana</Name>
+    </Item>
+    <Item ItemID="46">
+      <Name>Barra de Chocolate</Name>
+    </Item>
+    <Item ItemID="47">
+      <Name>Barra de Chocolate</Name>
+    </Item>
+    <Item ItemID="48">
+      <Name>Barra de Chocolate</Name>
+    </Item>
+    <Item ItemID="49">
+      <Name>Laranja</Name>
+    </Item>
+    <Item ItemID="50">
+      <Name>Kit Medico</Name>
+    </Item>
+    <Item ItemID="51">
+      <Name>Caixa de Leite</Name>
+    </Item>
+    <Item ItemID="52">
+      <Name>Vacina de Infecção</Name>
+    </Item>
+    <Item ItemID="53">
+      <Name>Antibiotico</Name>
+    </Item>
+    <Item ItemID="54">
+      <Name>Tocha de Parede</Name>
+    </Item>
+    <Item ItemID="55">
+      <Name>Parede de Espinho</Name>
+    </Item>
+    <Item ItemID="56">
+      <Name>Parede de Garagem</Name>
+    </Item>
+    <Item ItemID="57">
+      <Name>Porta de Garagem</Name>
+    </Item>
+    <Item ItemID="58">
+      <Name>Macarrão Enlatado</Name>
+    </Item>
+    <Item ItemID="59">
+      <Name>Bacon Enlatado</Name>
+    </Item>
+    <Item ItemID="60">
+      <Name>Sardinha Enlatada</Name>
+    </Item>
+    <Item ItemID="61">
+      <Name>Claymore</Name>
+    </Item>
+    <Item ItemID="62">
+      <Name>Anexo_Lanterna</Name>
+    </Item>
+    <Item ItemID="63">
+      <Name>Anexo_Foregrip</Name>
+    </Item>
+    <Item ItemID="64">
+      <Name>Anexo_Laser</Name>
+    </Item>
+    <Item ItemID="65">
+      <Name>Anexo_Mira</Name>
+    </Item>
+    <Item ItemID="66">
+      <Name>Anexo_Silenciador</Name>
+    </Item>
+    <Item ItemID="67">
+      <Name>Granada Caseira</Name>
+    </Item>
+    <Item ItemID="68">
+      <Name>Mochila Pequena</Name>
+    </Item>
+    <Item ItemID="69">
+      <Name>Mochila Media</Name>
+    </Item>
+    <Item ItemID="70">
+      <Name>Mochila Grande</Name>
+    </Item>
+    <Item ItemID="71">
+      <Name>Mochila de Caça</Name>
+    </Item>
+    <Item ItemID="72">
+      <Name>Mochila ALICE</Name>
+    </Item>
+    <Item ItemID="73">
+      <Name>Mauser 98</Name>
+    </Item>
+    <Item ItemID="74">
+      <Name>Remington</Name>
+    </Item>
+    <Item ItemID="75">
+      <Name>Desert Eagle</Name>
+    </Item>
+    <Item ItemID="76">
+      <Name>Shotgun</Name>
+    </Item>
+    <Item ItemID="77">
+      <Name>Sawn-Off Shotgun</Name>
+    </Item>
+    <Item ItemID="78">
+      <Name>Revolver</Name>
+    </Item>
+    <Item ItemID="79">
+      <Name>Revolver </Name>
+    </Item>
+    <Item ItemID="80">
+      <Name>TMPSMG</Name>
+    </Item>
+    <Item ItemID="81">
+      <Name>Munição Desert Eagle</Name>
+    </Item>
+    <Item ItemID="82">
+      <Name>Munição Mauser/Remington</Name>
+    </Item>
+    <Item ItemID="83">
+      <Name>Nova Shell</Name>
+    </Item>
+    <Item ItemID="84">
+      <Name>Munição de Revolver</Name>
+    </Item>
+    <Item ItemID="85">
+      <Name>Katana</Name>
+    </Item>
+  </ItemsList>
+</Language>
