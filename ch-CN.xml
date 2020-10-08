@@ -48,6 +48,7 @@
   <Players>Players</Players>
   <ViewDistance>View Distance</ViewDistance>
   <CurrentQuality>Current Quality:</CurrentQuality>
+  <ChangeLanguage>Language:</ChangeLanguage>
   <ChangeQuality>Change Quality</ChangeQuality>
   <HighQuality>High</HighQuality>
   <NormalQuality>Normal</NormalQuality>

@@ -48,6 +48,7 @@
   <Players>Игроков</Players>
   <ViewDistance>Дальность прорисовки</ViewDistance>
   <CurrentQuality>Качество графики:</CurrentQuality>
+  <ChangeLanguage>Language:</ChangeLanguage>
   <ChangeQuality>Изменить качество</ChangeQuality>
   <HighQuality>высокое</HighQuality>
   <NormalQuality>нормальное</NormalQuality>

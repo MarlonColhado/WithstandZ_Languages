@@ -48,6 +48,7 @@
   <Players>Jogadores</Players>
   <ViewDistance>Distancia de Visualização</ViewDistance>
   <CurrentQuality>Qualidade Atual:</CurrentQuality>
+  <ChangeLanguage>Language:</ChangeLanguage>
   <ChangeQuality>Alterar Qualidade</ChangeQuality>
   <HighQuality>Alto</HighQuality>
   <NormalQuality>Normal</NormalQuality>
