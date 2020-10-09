@@ -39,6 +39,7 @@
   <Select>Select</Select>
   <Play>Play</Play>
   <Back>Back</Back>
+  <Apply>Apply</Apply>
   <Exit>Exit</Exit>
   <Backpack>Backpack</Backpack>
   <Attach>Attach</Attach>
@@ -46,13 +47,13 @@
   <Attachs>Attachs</Attachs>
   <Player>Players</Player>
   <Players>Players</Players>
-  <ViewDistance>View Distance</ViewDistance>
-  <CurrentQuality>Current Quality:</CurrentQuality>
+  <ViewDistance>View Distance:</ViewDistance>
+  <CurrentQuality>Quality:</CurrentQuality>
   <ChangeLanguage>Language:</ChangeLanguage>
   <ChangeQuality>Change Quality</ChangeQuality>
   <HighQuality>High</HighQuality>
   <NormalQuality>Normal</NormalQuality>
-  <CameraSensitivity>Camera Sensitivity</CameraSensitivity>
+  <CameraSensitivity>Camera Sensitivity:</CameraSensitivity>
   <Policeman>PoliceMan</Policeman>
   <Farmer>Farmer</Farmer>
   <SalaryMan>SalaryMan</SalaryMan>
@@ -65,6 +66,7 @@
   <MessagePlayerServer>YOU ARE PLAYING ONLINE</MessagePlayerServer>
   <ConnectingToServer>Connecting to server</ConnectingToServer>
   <ConnectionTimeout>Connecting Time out</ConnectionTimeout>
+  <ConnectionHostLeave>The host closed the room!</ConnectionHostLeave>
   <ConnectionFull>Room Full!</ConnectionFull>
   <ConnectedLoadingObjects>Connected! Loading GameOBject</ConnectedLoadingObjects>
   <JoinedRoom>joined the game!</JoinedRoom>

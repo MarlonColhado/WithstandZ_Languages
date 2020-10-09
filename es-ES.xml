@@ -39,6 +39,7 @@
   <Select>Seleccione</Select>
   <Play>Jugar</Play>
   <Back>Atrás</Back>
+  <Apply>Aplicar</Apply>
   <Exit>Salir</Exit>
   <Backpack>Backpack</Backpack>
   <Attach>Attach</Attach>
@@ -46,11 +47,11 @@
   <Attachs>Attachs</Attachs>
   <Player>Players</Player>
   <Players>Players</Players>
-  <ViewDistance>View Distance</ViewDistance>
-  <CurrentQuality>Current Quality:</CurrentQuality>
-  <ChangeLanguage>Language:</ChangeLanguage>
+  <ViewDistance>Distancia de Vista:</ViewDistance>
+  <CurrentQuality>Calidad:</CurrentQuality>
+  <ChangeLanguage>Idioma:</ChangeLanguage>
   <ChangeQuality>Change Quality</ChangeQuality>
-  <HighQuality>High</HighQuality>
+  <HighQuality>Alto</HighQuality>
   <NormalQuality>Normal</NormalQuality>
   <CameraSensitivity>Sensibilidad Cámara</CameraSensitivity>
   <Policeman>Policía</Policeman>
@@ -65,6 +66,7 @@
   <MessagePlayerServer>USTED ESTA JUGANDO EN LINEA</MessagePlayerServer>
   <ConnectingToServer>Conectando a el servidor</ConnectingToServer>
   <ConnectionTimeout>Error de conexión!</ConnectionTimeout>
+  <ConnectionHostLeave>El host cerró el servidor!</ConnectionHostLeave>
   <ConnectionFull>Room Full!</ConnectionFull>
   <ConnectedLoadingObjects>CONECTADO! CARGANDO, ESPERA...</ConnectedLoadingObjects>
   <JoinedRoom>entró en el juego!</JoinedRoom>

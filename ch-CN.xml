@@ -39,6 +39,7 @@
   <Select>选择</Select>
   <Play>开始生存！</Play>
   <Back>返回</Back>
+  <Apply>应用</Apply>
   <Exit>退出</Exit>
   <Backpack>背包</Backpack>
   <Attach>配件</Attach>
@@ -46,12 +47,12 @@
   <Attachs>附件</Attachs>
   <Player>Players</Player>
   <Players>Players</Players>
-  <ViewDistance>View Distance</ViewDistance>
-  <CurrentQuality>Current Quality:</CurrentQuality>
-  <ChangeLanguage>Language:</ChangeLanguage>
+  <ViewDistance>视距:</ViewDistance>
+  <CurrentQuality>当前质量:</CurrentQuality>
+  <ChangeLanguage>语言:</ChangeLanguage>
   <ChangeQuality>Change Quality</ChangeQuality>
-  <HighQuality>High</HighQuality>
-  <NormalQuality>Normal</NormalQuality>
+  <HighQuality>高质量</HighQuality>
+  <NormalQuality>正常品质</NormalQuality>
   <CameraSensitivity>相機靈敏度</CameraSensitivity>
   <Policeman>警察</Policeman>
   <Farmer>农民</Farmer>
@@ -65,6 +66,7 @@
   <MessagePlayerServer>正在进行多人游戏</MessagePlayerServer>
   <ConnectingToServer>连接至服务器中</ConnectingToServer>
   <ConnectionTimeout>连接超时</ConnectionTimeout>
+  <ConnectionHostLeave>服务器所有者关闭了房间!</ConnectionHostLeave>
   <ConnectionFull>房间满员了！</ConnectionFull>
   <ConnectedLoadingObjects>已连接！正在加载游戏中</ConnectedLoadingObjects>
   <JoinedRoom>加入了游戏！</JoinedRoom>

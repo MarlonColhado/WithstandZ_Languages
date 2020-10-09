@@ -39,6 +39,7 @@
   <Select>Выбрать</Select>
   <Play>Играть</Play>
   <Back>Назад</Back>
+  <Apply>Примените</Apply>
   <Exit>Выход</Exit>
   <Backpack>Рюкзак</Backpack>
   <Attach>Attach</Attach>
@@ -48,7 +49,7 @@
   <Players>Игроков</Players>
   <ViewDistance>Дальность прорисовки</ViewDistance>
   <CurrentQuality>Качество графики:</CurrentQuality>
-  <ChangeLanguage>Language:</ChangeLanguage>
+  <ChangeLanguage>Язык:</ChangeLanguage>
   <ChangeQuality>Изменить качество</ChangeQuality>
   <HighQuality>высокое</HighQuality>
   <NormalQuality>нормальное</NormalQuality>
@@ -65,6 +66,7 @@
   <MessagePlayerServer>ВЫ ИГРАЕТЕ ОНЛАЙН</MessagePlayerServer>
   <ConnectingToServer>Подключение к сереру</ConnectingToServer>
   <ConnectionTimeout>Превышен интервал подключения</ConnectionTimeout>
+  <ConnectionHostLeave>Владелец сервера закрыл комнату!</ConnectionHostLeave>
   <ConnectionFull>Сервер полон!</ConnectionFull>
   <ConnectedLoadingObjects>Подключено! Загрузка игровых объектов</ConnectedLoadingObjects>
   <JoinedRoom>подключился!</JoinedRoom>
