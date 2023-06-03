@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="hi_IN" LangName="हिंदी">
+  <ReSpawn>पुनर्जन्म</ReSpawn>
+  <ReSpawnItem>एक यादृच्छिक हथियार के साथ पुनर्जन्म
+(वीडियो विज्ञापन)</ReSpawnItem>
+  <SinglePlayer>सिंगलप्लेयर</SinglePlayer>
+  <MultiPlayer>मल्टीप्लेयर</MultiPlayer>
+  <StartGame>खेल शुरू करें</StartGame>
+  <ChooseLevel>स्तर चुनें</ChooseLevel>
+  <SelectLevel>स्तर चुनें</SelectLevel>
+  <CharacterList>किरदार सूची</CharacterList>
+  <NewCharacter>नया किरदार</NewCharacter>
+  <CreateNewCharacter>नया किरदार बनाएं</CreateNewCharacter>
+  <HostGame>खेल मेज़बानी करें</HostGame>
+  <FindGame>खेल ढूंढें</FindGame>
+  <ConnectIP>आईपी कनेक्ट करें</ConnectIP>
+  <messageCreateHost>सर्वर का नाम</messageCreateHost>
+  <messagePvPServer>पीवीपी (खिलाड़ी दूसरों को मार सकते हैं)</messagePvPServer>
+  <VisibleInServerList>अन्य खिलाड़ियों से संरचनाओं को बचाएं</VisibleInServerList>
+  <ServerList>सर्वर सूची</ServerList>
+  <CreateGame>खेल बनाएँ</CreateGame>
+  <messageConnectIP>सर्वर आईपी के साथ कनेक्ट करें</messageConnectIP>
+  <EnterWorld>दुनिया में प्रवेश करें</EnterWorld>
+  <Inventory>सूची</Inventory>
+  <Craft>शिल्प</Craft>
+  <Items>वस्त्र</Items>
+  <Use>उपयोग करें</Use>
+  <Open>खोलें</Open>
+  <Close>बंद करें</Close>
+  <Door>दरवाजा</Door>
+  <Drop>छोड़ें</Drop>
+  <PressPickup>पिकअप बटन दबाएं</PressPickup>
+  <Connect>कनेक्ट करें</Connect>
+  <Join>शामिल हों</Join>
+  <Refresh>ताज़ा करें</Refresh>
+  <Host>मेज़बान</Host>
+  <Cancel>रद्द करें</Cancel>
+  <Delete>हटाएँ</Delete>
+  <Select>चुनें</Select>
+  <Play>खेलें</Play>
+  <Back>वापस</Back>
+  <Apply>लागू करें</Apply>
+  <Exit>निकासी</Exit>
+  <Backpack>बैकपैक</Backpack>
+  <Attach>जोड़ें</Attach>
+  <Detach>अलग करें</Detach>
+  <Attachs>संलग्नक</Attachs>
+  <Player>खिलाड़ी</Player>
+  <Players>खिलाड़ियों</Players>
+  <ViewDistance>दृश्य दूरी:</ViewDistance>
+  <CurrentQuality>गुणवत्ता:</CurrentQuality>
+  <ChangeLanguage>भाषा:</ChangeLanguage>
+  <ChangeQuality>गुणवत्ता बदलें</ChangeQuality>
+  <HighQuality>उच्च</HighQuality>
+  <NormalQuality>सामान्य</NormalQuality>
+  <CameraSensitivity>कैमरा संवेदनशीलता:</CameraSensitivity>
+  <Policeman>पुलिसवाला</Policeman>
+  <Farmer>किसान</Farmer>
+  <SalaryMan>वेतनभोगी</SalaryMan>
+  <Girl>लड़की</Girl>
+  <Doctor>डॉक्टर</Doctor>
+  <Resume>प्रारंभ करें</Resume>
+  <Disconnect>डिस्कनेक्ट</Disconnect>
+  <MainMenu>मुख्य मेनू</MainMenu>
+  <MessageHostServer>आप सर्वर मेज़बान हैं</MessageHostServer>
+  <MessagePlayerServer>आप ऑनलाइन खेल रहे हैं</MessagePlayerServer>
+  <ConnectingToServer>सर्वर से कनेक्ट करना</ConnectingToServer>
+  <ConnectionTimeout>कनेक्टिंग समय समाप्त</ConnectionTimeout>
+  <ConnectionHostLeave>मेज़बान ने कमरा बंद कर दिया!</ConnectionHostLeave>
+  <ConnectionFull>कमरा भरा!</ConnectionFull>
+  <ConnectedLoadingObjects>कनेक्टेड! गेम ऑब्जेक्ट्स लोड करना</ConnectedLoadingObjects>
+  <JoinedRoom>खेल में शामिल हुए!</JoinedRoom>
+  <LeftRoom>खेल से बाहर गए!</LeftRoom>
+  <WaitMaster>मास्टर सर्वर से कनेक्ट करना</WaitMaster>
+  <ConnectedMaster>कनेक्टेड!</ConnectedMaster>
+  <ErrorMaster>कनेक्ट करते समय त्रुटि थी, अपनी इंटरनेट की जांच करें!</ErrorMaster>
+  <Options>विकल्प</Options>
+  <ThemeMusic>मुख्य मेनू थीम फ्लो रियान द्वारा</ThemeMusic>
+  <TheMessageOfMother>खेल में एक संशोधन का पता चला!
+वास्तविक गेम डाउनलोड करें:</TheMessageOfMother>
+  <Slots>
+    <string>स्लॉट</string>
+    <string>स्लॉट</string>
+    <string>स्लॉट</string>
+  </Slots>
+  <WatchAdToCraftCoins>विज्ञापन देखें (10 सिक्का कमाएँ)</WatchAdToCraftCoins>
+  <WatchAdWait>विज्ञापन देखें (इंतजार करें, विज्ञापन लोड हो रहा है...)</WatchAdWait>
+  <auto>स्वचालित</auto>
+  <us>यूएसए, पूर्व</us>
+  <usw>यूएसए, पश्चिम</usw>
+  <sa>दक्षिण अमेरिका</sa>
+  <ru>रूस</ru>
+  <rue>रूस, पूर्व</rue>
+  <eu>यूरोप</eu>
+  <cae>कनाडा</cae>
+  <jp>जापान</jp>
+  <au>ऑस्ट्रेलिया</au>
+  <asia>एशिया</asia>
+  <kr>दक्षिण कोरिया</kr>
+  <in>भारत</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>एके 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>पिस्टल</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>राइफल गोलियाँ</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>हथौड़ा</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>कैन्ड बीन्स</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>शॉटगन</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>स्नाइपर</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>बैरेट</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>एम 4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>मैग्नम</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>शिकार शॉटगन</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>पट्टी</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 मिमी</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>राइफल गोलियाँ</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>शेल</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357 मैग्नम</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>पानी की बोतल</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>ग्रेनेड</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>कैंप फ़ायर</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>एसएमजी</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50 कैल</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>लकड़ी</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>मेटल फ्रैगमेंट</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>मचेटे</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>कुल्हाड़ी</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>कपड़ा</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>फ़्लैश लाइट</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>फाउंडेशन</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>स्तंभ</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>दीवार</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>छत</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>सीढ़ी</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>खिड़की</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>दरवाजा</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>लकड़ी का संधुक</Name>
+    </Item>
+	<Item ItemID="35">
+      <Name>छत की सीढ़ी</Name>
+	</Item>
+	<Item ItemID="36">
+      <Name>लकड़ी का दरवाजा</Name>
+	</Item>
+	<Item ItemID="37">
+      <Name>स्लीपिंग बैग</Name>
+	</Item>
+	<Item ItemID="38">
+      <Name>आग की कुल्हाड़ी</Name>
+	</Item>
+	<Item ItemID="39">
+      <Name>बेसबॉल बैट</Name>
+	</Item>
+	<Item ItemID="40">
+      <Name>बेसबॉल बैट</Name>
+	</Item>
+	<Item ItemID="41">
+      <Name>ब्लडबैग</Name>
+	</Item>
+	<Item ItemID="42">
+      <Name>ऊर्जा पेय</Name>
+	</Item>
+	<Item ItemID="43">
+      <Name>ऊर्जा पेय</Name>
+	</Item>
+	<Item ItemID="44">
+      <Name>सेब</Name>
+	</Item>
+	<Item ItemID="45">
+      <Name>केला</Name>
+	</Item>
+	<Item ItemID="46">
+      <Name>चॉकलेट बार</Name>
+	</Item>
+	<Item ItemID="47">
+      <Name>चॉकलेट बार</Name>
+	</Item>
+	<Item ItemID="48">
+      <Name>चॉकलेट बार</Name>
+	</Item>
+	<Item ItemID="49">
+      <Name>संतरा</Name>
+	</Item>
+	<Item ItemID="50">
+      <Name>मेडिक किट</Name>
+	</Item>
+	<Item ItemID="51">
+      <Name>दूध का डिब्बा</Name>
+	</Item>
+	<Item ItemID="52">
+      <Name>संक्रमण वैक्सीन</Name>
+	</Item>
+	<Item ItemID="53">
+      <Name>एंटीबायोटिक</Name>
+	</Item>
+	<Item ItemID="54">
+      <Name>दीवार का मशाल</Name>
+	</Item>
+	<Item ItemID="55">
+      <Name>स्पाइकवॉल</Name>
+	</Item>
+	<Item ItemID="56">
+      <Name>गैराज</Name>
+	</Item>
+	<Item ItemID="57">
+      <Name>गैराज का दरवाजा</Name>
+	</Item>
+	<Item ItemID="58">
+      <Name>कैन्ड पास्ता</Name>
+	</Item>
+	<Item ItemID="59">
+      <Name>कैन्ड बेकन</Name>
+	</Item>
+	<Item ItemID="60">
+      <Name>कैन्ड सार्डीन</Name>
+	</Item>
+	<Item ItemID="61">
+      <Name>क्लेमोर</Name>
+	</Item>
+	<Item ItemID="62">
+      <Name>फ्लैशलाइट लगाएं</Name>
+	</Item>
+	<Item ItemID="63">
+      <Name>फोरग्रिप लगाएं</Name>
+	</Item>
+	<Item ItemID="64">
+      <Name>लेज़र लगाएं</Name>
+	</Item>
+	<Item ItemID="65">
+      <Name>साइट लगाएं</Name>
+	</Item>
+	<Item ItemID="66">
+      <Name>साइलेंसर लगाएं</Name>
+	</Item>
+	<Item ItemID="67">
+      <Name>पाइपबम</Name>
+	</Item>
+    <Item ItemID="68">
+      <Name>छोटा बैकपैक</Name>
+	</Item>
+	<Item ItemID="69">
+      <Name>मध्यम बैकपैक</Name>
+	</Item>
+	<Item ItemID="70">
+      <Name>बड़ा बैकपैक</Name>
+	</Item>
+	<Item ItemID="71">
+      <Name>शिकार बैकपैक</Name>
+	</Item>
+	<Item ItemID="72">
+      <Name>एलिस बैकपैक</Name>
+	</Item>
+	<Item ItemID="73">
+      <Name>माउज़र 98</Name>
+	</Item>
+	<Item ItemID="74">
+      <Name>रेमिंगटन</Name>
+	</Item>
+	<Item ItemID="75">
+      <Name>डेजर्ट ईगल</Name>
+	</Item>
+	<Item ItemID="76">
+      <Name>शॉटगन</Name>
+	</Item>
+	<Item ItemID="77">
+      <Name>कटा हुआ शॉटगन</Name>
+	</Item>
+	<Item ItemID="78">
+      <Name>रिवॉल्वर</Name>
+	</Item>
+	<Item ItemID="79">
+      <Name>रिवॉल्वर</Name>
+	</Item>
+	<Item ItemID="80">
+      <Name>टीएमपीएसएमजी</Name>
+	</Item>
+	<Item ItemID="81">
+      <Name>डेजर्ट ईगल गोली</Name>
+	</Item>
+	<Item ItemID="82">
+      <Name>माउज़र / रेमिंगटन गोली</Name>
+	</Item>
+	<Item ItemID="83">
+      <Name>नया शेल</Name>
+	</Item>
+	<Item ItemID="84">
+      <Name>रिवॉल्वर गोली</Name>
+	</Item>
+	<Item ItemID="85">
+      <Name>कातना</Name>
+	</Item>
+  </ItemsList>
+</Language>

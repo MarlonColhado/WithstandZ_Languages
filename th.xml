@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="th" LangName="แบบไทย">
+  <ReSpawn>การเกิดใหม่</ReSpawn>
+  <ReSpawnItem>เกิดด้วยอาวุธสุ่ม
+(โฆษณาวิดีโอ)</ReSpawnItem>
+  <SinglePlayer>ผู้เล่นคนเดียว</SinglePlayer>
+  <MultiPlayer>ผู้เล่นหลายคน</MultiPlayer>
+  <StartGame>เริ่มเกม</StartGame>
+  <ChooseLevel>เลือกระดับ</ChooseLevel>
+  <SelectLevel>เลือกระดับ</SelectLevel>
+  <CharacterList>รายชื่อตัวละคร</CharacterList>
+  <NewCharacter>ตัวละครใหม่</NewCharacter>
+  <CreateNewCharacter>สร้างตัวละครใหม่</CreateNewCharacter>
+  <HostGame>โฮสต์เกม</HostGame>
+  <FindGame>ค้นหาเกม</FindGame>
+  <ConnectIP>เชื่อมต่อ IP</ConnectIP>
+  <messageCreateHost>ชื่อเซิร์ฟเวอร์</messageCreateHost>
+  <messagePvPServer>PvP (ผู้เล่นสามารถฆ่าคนอื่น ๆ)</messagePvPServer>
+  <VisibleInServerList>บันทึกโครงสร้างจากผู้เล่นคนอื่น ๆ</VisibleInServerList>
+  <ServerList>รายชื่อเซิร์ฟเวอร์</ServerList>
+  <CreateGame>สร้างเกม</CreateGame>
+  <messageConnectIP>เชื่อมต่อด้วย IP เซิร์ฟเวอร์</messageConnectIP>
+  <EnterWorld>เข้าสู่โลก</EnterWorld>
+  <Inventory>สินค้าคงคลัง</Inventory>
+  <Craft>คราฟต์</Craft>
+  <Items>รายการ</Items>
+  <Use>ใช้</Use>
+  <Open>เปิด</Open>
+  <Close>ปิด</Close>
+  <Door>ประตู</Door>
+  <Drop>ตั้ง</Drop>
+  <PressPickup>กดปุ่มเก็บของ</PressPickup>
+  <Connect>เชื่อมต่อ</Connect>
+  <Join>เข้าร่วม</Join>
+  <Refresh>รีเฟรช</Refresh>
+  <Host>โฮสต์</Host>
+  <Cancel>ยกเลิก</Cancel>
+  <Delete>ลบ</Delete>
+  <Select>เลือก</Select>
+  <Play>เล่น</Play>
+  <Back>กลับ</Back>
+  <Apply>ใช้</Apply>
+  <Exit>ออก</Exit>
+  <Backpack>กระเป๋าเป้</Backpack>
+  <Attach>แนบ</Attach>
+  <Detach>ถอด</Detach>
+  <Attachs>แนบ</Attachs>
+  <Player>ผู้เล่น</Player>
+  <Players>ผู้เล่น</Players>
+  <ViewDistance>ระยะที่มองเห็น:</ViewDistance>
+  <CurrentQuality>คุณภาพ:</CurrentQuality>
+  <ChangeLanguage>ภาษา:</ChangeLanguage>
+  <ChangeQuality>เปลี่ยนคุณภาพ</ChangeQuality>
+  <HighQuality>สูง</HighQuality>
+  <NormalQuality>ปกติ</NormalQuality>
+  <CameraSensitivity>ความไวของกล้อง:</CameraSensitivity>
+  <Policeman>ตำรวจ</Policeman>
+  <Farmer>ชาวนา</Farmer>
+  <SalaryMan>พนักงานเงินเดือน</SalaryMan>
+  <Girl>สาว</Girl>
+  <Doctor>หมอ</Doctor>
+  <Resume>ทำต่อ</Resume>
+  <Disconnect>ตัดการเชื่อมต่อ</Disconnect>
+  <MainMenu>เมนูหลัก</MainMenu>
+  <MessageHostServer>คุณเป็นเจ้าของเซิร์ฟเวอร์</MessageHostServer>
+  <MessagePlayerServer>คุณกำลังเล่นออนไลน์</MessagePlayerServer>
+  <ConnectingToServer>เชื่อมต่อกับเซิร์ฟเวอร์</ConnectingToServer>
+  <ConnectionTimeout>เวลาเชื่อมต่อหมด</ConnectionTimeout>
+  <ConnectionHostLeave>เจ้าของปิดห้อง!</ConnectionHostLeave>
+  <ConnectionFull>ห้องเต็ม!</ConnectionFull>
+  <ConnectedLoadingObjects>เชื่อมต่อแล้ว! กำลังโหลด GameObjects</ConnectedLoadingObjects>
+  <JoinedRoom>เข้าร่วมเกม!</JoinedRoom>
+  <LeftRoom>ออกจากเกม!</LeftRoom>
+  <WaitMaster>เชื่อมต่อเซิร์ฟเวอร์หลัก</WaitMaster>
+  <ConnectedMaster>เชื่อมต่อแล้ว!</ConnectedMaster>
+  <ErrorMaster>พบข้อผิดพลาดในการเชื่อมต่อ โปรดตรวจสอบอินเทอร์เน็ตของคุณ!</ErrorMaster>
+  <Options>ตัวเลือก</Options>
+  <ThemeMusic>ธีมเมนูหลักโดย Flo Rian</ThemeMusic>
+  <TheMessageOfMother>ตรวจพบการปรับเปลี่ยนในเกม!
+ดาวน์โหลดเกมต้นฉบับ:</TheMessageOfMother>
+  <Slots>
+    <string>ช่อง</string>
+    <string>ช่อง</string>
+    <string>ช่อง</string>
+  </Slots>
+  <WatchAdToCraftCoins>ดูโฆษณา (ได้รับ 10 เหรียญ)</WatchAdToCraftCoins>
+  <WatchAdWait>ดูโฆษณา (รอโหลดโฆษณา...)</WatchAdWait>
+  <auto>อัตโนมัติ</auto>
+  <us>สหรัฐอเมริกา, ภาคตะวันออก</us>
+  <usw>สหรัฐอเมริกา, ภาคตะวันตก</usw>
+  <sa>อเมริกาใต้</sa>
+  <ru>รัสเซีย</ru>
+  <rue>รัสเซีย, ภาคตะวันออก</rue>
+  <eu>ยุโรป</eu>
+  <cae>แคนาดา</cae>
+  <jp>ญี่ปุ่น</jp>
+  <au>ออสเตรเลีย</au>
+  <asia>เอเชีย</asia>
+  <kr>เกาหลีใต้</kr>
+  <in>อินเดีย</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>ปืนสั้น</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>กระสุนปืนยิง</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>ค้อน</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>ถั่วในกระป๋อง</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>ปืนลูกซอง</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>สไนเปอร์</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>แบร์เรต</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>แม็กนัม</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>ปืนลูกซองล่าสัตว์</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>ผ้าพันแผล</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 มิลลิเมตร</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>กระสุนปืนยิง</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>กระสุนลูกซอง</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357 แม็กนัม</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>ขวดน้ำ</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>ขวดแก้ว</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>กองไฟ</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>SMG</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50cal</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>ไม้</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>เศษโลหะ</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>มีดมาเชตี้</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>ขวาน</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>ผ้า</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>ไฟฉาย</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>รากฐาน</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>คอลัมน์</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>กำแพง</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>หลังคา</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>บันได</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>หน้าต่าง</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>ประตู</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>ลังไม้</Name>
+    </Item>
+	<Item ItemID="35">
+      <Name>บันไดหลังคา</Name>
+	</Item>
+	<Item ItemID="36">
+      <Name>ประตูไม้</Name>
+	</Item>
+	<Item ItemID="37">
+      <Name>ถุงนอน</Name>
+	</Item>
+	<Item ItemID="38">
+      <Name>ขวานดับเพลิง</Name>
+	</Item>
+	<Item ItemID="39">
+      <Name>ไม้บีสบอล</Name>
+	</Item>
+	<Item ItemID="40">
+      <Name>ไม้บีสบอล</Name>
+	</Item>
+	<Item ItemID="41">
+      <Name>ถุงเลือด</Name>
+	</Item>
+	<Item ItemID="42">
+      <Name>เครื่องดื่มเพิ่มพลัง</Name>
+	</Item>
+	<Item ItemID="43">
+      <Name>เครื่องดื่มเพิ่มพลัง</Name>
+	</Item>
+	<Item ItemID="44">
+      <Name>แอปเปิ้ล</Name>
+	</Item>
+	<Item ItemID="45">
+      <Name>กล้วย</Name>
+	</Item>
+	<Item ItemID="46">
+      <Name>ช็อกโกแลตบาร์</Name>
+	</Item>
+	<Item ItemID="47">
+      <Name>ช็อกโกแลตบาร์</Name>
+	</Item>
+	<Item ItemID="48">
+      <Name>ช็อกโกแลตบาร์</Name>
+	</Item>
+	<Item ItemID="49">
+      <Name>ส้ม</Name>
+	</Item>
+	<Item ItemID="50">
+      <Name>ชุดควบคุมการแพทย์</Name>
+	</Item>
+	<Item ItemID="51">
+      <Name>กล่องนม</Name>
+	</Item>
+	<Item ItemID="52">
+      <Name>วัคซีนป้องกันการติดเชื้อ</Name>
+	</Item>
+	<Item ItemID="53">
+      <Name>ยาปฏิชีวนะ</Name>
+	</Item>
+	<Item ItemID="54">
+      <Name>ไฟฉายผนัง</Name>
+	</Item>
+	<Item ItemID="55">
+      <Name>กำแพงปัก</Name>
+	</Item>
+	<Item ItemID="56">
+      <Name>โรงรถ</Name>
+	</Item>
+	<Item ItemID="57">
+      <Name>ประตูโรงรถ</Name>
+	</Item>
+	<Item ItemID="58">
+      <Name>พาสต้าในกระป๋อง</Name>
+	</Item>
+	<Item ItemID="59">
+      <Name>เบคอนในกระป๋อง</Name>
+	</Item>
+	<Item ItemID="60">
+      <Name>ปลาซาร์ดีนในกระป๋อง</Name>
+	</Item>
+	<Item ItemID="61">
+      <Name>คละย์มอร์</Name>
+	</Item>
+	<Item ItemID="62">
+      <Name>ติดตั้งไฟฉาย</Name>
+	</Item>
+	<Item ItemID="63">
+      <Name>ติดตั้งราวจับมือ</Name>
+	</Item>
+	<Item ItemID="64">
+      <Name>ติดตั้งเลเซอร์</Name>
+	</Item>
+	<Item ItemID="65">
+      <Name>ติดตั้งเป้าหมาย</Name>
+	</Item>
+	<Item ItemID="66">
+      <Name>ตัวเก็บเสียง</Name>
+	</Item>
+	<Item ItemID="67">
+      <Name>ระเบิดท่อ</Name>
+	</Item>
+    <Item ItemID="68">
+      <Name>กระเป๋าเล็ก</Name>
+	</Item>
+	<Item ItemID="69">
+      <Name>กระเป๋าขนาดกลาง</Name>
+	</Item>
+	<Item ItemID="70">
+      <Name>กระเป๋าขนาดใหญ่</Name>
+	</Item>
+	<Item ItemID="71">
+      <Name>กระเป๋าล่าสัตว์</Name>
+	</Item>
+	<Item ItemID="72">
+      <Name>กระเป๋า ALICE</Name>
+	</Item>
+	<Item ItemID="73">
+      <Name>Mauser 98</Name>
+	</Item>
+	<Item ItemID="74">
+      <Name>รีมิงตัน</Name>
+	</Item>
+	<Item ItemID="75">
+      <Name>อินทรีย์อินทรีย์</Name>
+	</Item>
+	<Item ItemID="76">
+      <Name>ปืนลูกซอง</Name>
+	</Item>
+	<Item ItemID="77">
+      <Name>ปืนลูกซองตัด</Name>
+	</Item>
+	<Item ItemID="78">
+      <Name>ปืนสายพาน</Name>
+	</Item>
+	<Item ItemID="79">
+      <Name>ปืนสายพาน</Name>
+	</Item>
+	<Item ItemID="80">
+      <Name>TMPSMG</Name>
+	</Item>
+	<Item ItemID="81">
+      <Name>กระสุนอินทรีย์อินทรีย์</Name>
+	</Item>
+	<Item ItemID="82">
+      <Name>กระสุน Mauser/Remington</Name>
+	</Item>
+	<Item ItemID="83">
+      <Name>เปลือกใหม่</Name>
+	</Item>
+	<Item ItemID="84">
+      <Name>กระสุนปืนสายพาน</Name>
+	</Item>
+	<Item ItemID="85">
+      <Name>คาตานา</Name>
+	</Item>
+  </ItemsList>
+</Language>

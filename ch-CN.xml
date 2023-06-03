@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="chs_CN" LangName="官话">
   <ReSpawn>重生</ReSpawn>
-  <ReSpawnItem>Spawn with a Random Weapon
-(Video Ad)</ReSpawnItem>
+  <ReSpawnItem>使用随机武器生成
+(视频广告)</ReSpawnItem>
   <SinglePlayer>单人游戏</SinglePlayer>
   <MultiPlayer>多人游戏 (测试版)</MultiPlayer>
   <StartGame>开始游戏</StartGame>
@@ -15,7 +15,7 @@
   <FindGame>查找游戏</FindGame>
   <ConnectIP>通过IP搜索游戏</ConnectIP>
   <messageCreateHost>房间名</messageCreateHost>
-  <messagePvPServer>PvP (players can kill others)</messagePvPServer>
+  <messagePvPServer>PvP (玩家可以杀死其他玩家)</messagePvPServer>
   <VisibleInServerList>保留其他玩家的建筑</VisibleInServerList>
   <ServerList>服务器列表</ServerList>
   <CreateGame>创建游戏</CreateGame>
@@ -43,14 +43,14 @@
   <Exit>退出</Exit>
   <Backpack>背包</Backpack>
   <Attach>配件</Attach>
-  <Detach>Detach</Detach>
+  <Detach>卸载</Detach>
   <Attachs>附件</Attachs>
-  <Player>Players</Player>
-  <Players>Players</Players>
+  <Player>玩家</Player>
+  <Players>玩家们</Players>
   <ViewDistance>视距:</ViewDistance>
   <CurrentQuality>当前质量:</CurrentQuality>
   <ChangeLanguage>语言:</ChangeLanguage>
-  <ChangeQuality>Change Quality</ChangeQuality>
+  <ChangeQuality>更改质量</ChangeQuality>
   <HighQuality>高质量</HighQuality>
   <NormalQuality>正常品质</NormalQuality>
   <CameraSensitivity>相機靈敏度</CameraSensitivity>
@@ -80,9 +80,9 @@ Chinese Language: dody DaWoJ4JI  忘却的旋律</ThemeMusic>
   <TheMessageOfMother>在遊戲中檢測到的變化。
 下載原始的遊戲：</TheMessageOfMother>
   <Slots>
-    <string>Slots</string>
-    <string>Slots</string>
-    <string>Slots</string>
+    <string>个插槽</string>
+    <string>个插槽</string>
+    <string>个插槽</string>
   </Slots>
   <WatchAdToCraftCoins>觀看廣告 (賺取10個硬幣)</WatchAdToCraftCoins>
   <WatchAdWait>觀看廣告 (等等，載入中...)</WatchAdWait>

@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="ar" LangName="عربي">
+  <ReSpawn>إعادة الظهور</ReSpawn>
+  <ReSpawnItem>الظهور بسلاح عشوائي
+(إعلان فيديو)</ReSpawnItem>
+  <SinglePlayer>لاعب واحد</SinglePlayer>
+  <MultiPlayer>متعدد اللاعبين</MultiPlayer>
+  <StartGame>بدء اللعبة</StartGame>
+  <ChooseLevel>اختر المستوى</ChooseLevel>
+  <SelectLevel>تحديد المستوى</SelectLevel>
+  <CharacterList>قائمة الشخصيات</CharacterList>
+  <NewCharacter>شخصية جديدة</NewCharacter>
+  <CreateNewCharacter>إنشاء شخصية جديدة</CreateNewCharacter>
+  <HostGame>استضافة اللعبة</HostGame>
+  <FindGame>البحث عن لعبة</FindGame>
+  <ConnectIP>ربط IP</ConnectIP>
+  <messageCreateHost>اسم الخادم</messageCreateHost>
+  <messagePvPServer>لاعب ضد لاعب (يمكن للاعبين قتل الآخرين)</messagePvPServer>
+  <VisibleInServerList>حفظ المنشآت من اللاعبين الآخرين</VisibleInServerList>
+  <ServerList>قائمة الخوادم</ServerList>
+  <CreateGame>إنشاء لعبة</CreateGame>
+  <messageConnectIP>الاتصال بخادم IP</messageConnectIP>
+  <EnterWorld>دخول العالم</EnterWorld>
+  <Inventory>الجرد</Inventory>
+  <Craft>الحرف</Craft>
+  <Items>العناصر</Items>
+  <Use>استخدام</Use>
+  <Open>فتح</Open>
+  <Close>إغلاق</Close>
+  <Door>الباب</Door>
+  <Drop>إسقاط</Drop>
+  <PressPickup>اضغط على زر التقاط</PressPickup>
+  <Connect>الاتصال</Connect>
+  <Join>الانضمام</Join>
+  <Refresh>تحديث</Refresh>
+  <Host>مضيف</Host>
+  <Cancel>إلغاء</Cancel>
+  <Delete>حذف</Delete>
+  <Select>تحديد</Select>
+  <Play>لعب</Play>
+  <Back>العودة</Back>
+  <Apply>تطبيق</Apply>
+  <Exit>خروج</Exit>
+  <Backpack>حقيبة الظهر</Backpack>
+  <Attach>إرفاق</Attach>
+  <Detach>فصل</Detach>
+  <Attachs>مرفقات</Attachs>
+  <Player>اللاعب</Player>
+  <Players>اللاعبون</Players>
+  <ViewDistance>مسافة الرؤية:</ViewDistance>
+  <CurrentQuality>الجودة:</CurrentQuality>
+  <ChangeLanguage>اللغة:</ChangeLanguage>
+  <ChangeQuality>تغيير الجودة</ChangeQuality>
+  <HighQuality>عالية</HighQuality>
+  <NormalQuality>عادية</NormalQuality>
+  <CameraSensitivity>حساسية الكاميرا:</CameraSensitivity>
+  <Policeman>رجل شرطة</Policeman>
+  <Farmer>مزارع</Farmer>
+  <SalaryMan>موظف</SalaryMan>
+  <Girl>فتاة</Girl>
+  <Doctor>طبيب</Doctor>
+  <Resume>استئناف</Resume>
+  <Disconnect>قطع الاتصال</Disconnect>
+  <MainMenu>القائمة الرئيسية</MainMenu>
+  <MessageHostServer>أنت مضيف الخادم</MessageHostServer>
+  <MessagePlayerServer>أنت تلعب عبر الإنترنت</MessagePlayerServer>
+  <ConnectingToServer>الاتصال بالخادم</ConnectingToServer>
+  <ConnectionTimeout>انتهاء وقت الاتصال</ConnectionTimeout>
+  <ConnectionHostLeave>أغلق المضيف الغرفة!</ConnectionHostLeave>
+  <ConnectionFull>الغرفة ممتلئة!</ConnectionFull>
+  <ConnectedLoadingObjects>متصل! تحميل كائنات اللعبة</ConnectedLoadingObjects>
+  <JoinedRoom>انضم إلى اللعبة!</JoinedRoom>
+  <LeftRoom>غادر اللعبة!</LeftRoom>
+  <WaitMaster>الاتصال بالخادم الرئيسي</WaitMaster>
+  <ConnectedMaster>متصل!</ConnectedMaster>
+  <ErrorMaster>حدث خطأ أثناء الاتصال، تحقق من الإنترنت!</ErrorMaster>
+  <Options>خيارات</Options>
+  <ThemeMusic>نغمة القائمة الرئيسية بواسطة فلو ريان</ThemeMusic>
+  <TheMessageOfMother>قم بتنزيل اللعبة الأصلية
+تم اكتشاف تعديل في اللعبة!:</TheMessageOfMother>
+  <Slots>
+    <string>فتحات</string>
+    <string>فتحات</string>
+    <string>فتحة</string>
+  </Slots>
+  <WatchAdToCraftCoins>شاهد الإعلان (اكسب 10 عملة)</WatchAdToCraftCoins>
+  <WatchAdWait>شاهد الإعلان (انتظر، جارٍ تحميل الإعلان...)</WatchAdWait>
+  <auto>تلقائي</auto>
+  <us>الولايات المتحدة الأمريكية، الشرق</us>
+  <usw>الولايات المتحدة الأمريكية، الغرب</usw>
+  <sa>أمريكا الجنوبية</sa>
+  <ru>روسيا</ru>
+  <rue>روسيا، الشرق</rue>
+  <eu>أوروبا</eu>
+  <cae>كندا</cae>
+  <jp>اليابان</jp>
+  <au>أستراليا</au>
+  <asia>آسيا</asia>
+  <kr>كوريا الجنوبية</kr>
+  <in>الهند</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>مسدس</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>ذخيرة بندقية</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>مطرقة</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>فاصوليا معلبة</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>بندقية ذاتية التحميل</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>قناص</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>باريت</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>ماغنوم</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>بندقية الصيد</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>ضمادة</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 ملم</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>ذخيرة بندقية</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>قذيفة</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>ماغنوم .357</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>زجاجة ماء</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>قنبلة يدوية</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>نار المخيم</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>SMG</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50cal</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>خشب</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>قطعة معدنية</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>مشط</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>فأس</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>قماش</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>كشاف</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>أساس</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>عمود</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>جدار</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>سقف</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>سلم</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>نافذة</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>باب</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>صندوق خشبي</Name>
+    </Item>
+	<Item ItemID="35">
+      <Name>سلم السقف</Name>
+	</Item>
+	<Item ItemID="36">
+      <Name>باب خشبي</Name>
+	</Item>
+	<Item ItemID="37">
+      <Name>حقيبة النوم</Name>
+	</Item>
+	<Item ItemID="38">
+      <Name>فأس الحريق</Name>
+	</Item>
+	<Item ItemID="39">
+      <Name>مضرب بيسبول</Name>
+	</Item>
+	<Item ItemID="40">
+      <Name>مضرب بيسبول</Name>
+	</Item>
+	<Item ItemID="41">
+      <Name>كيس الدم</Name>
+	</Item>
+	<Item ItemID="42">
+      <Name>مشروب الطاقة</Name>
+	</Item>
+	<Item ItemID="43">
+      <Name>مشروب الطاقة</Name>
+	</Item>
+	<Item ItemID="44">
+      <Name>تفاحة</Name>
+	</Item>
+	<Item ItemID="45">
+      <Name>موزة</Name>
+	</Item>
+	<Item ItemID="46">
+      <Name>شوكولاتة</Name>
+	</Item>
+	<Item ItemID="47">
+      <Name>شوكولاتة</Name>
+	</Item>
+	<Item ItemID="48">
+      <Name>شوكولاتة</Name>
+	</Item>
+	<Item ItemID="49">
+      <Name>برتقال</Name>
+	</Item>
+	<Item ItemID="50">
+      <Name>طقم طبي</Name>
+	</Item>
+	<Item ItemID="51">
+      <Name>علبة حليب</Name>
+	</Item>
+	<Item ItemID="52">
+      <Name>لقاح مكافحة العدوى</Name>
+	</Item>
+	<Item ItemID="53">
+      <Name>مضاد حيوي</Name>
+	</Item>
+	<Item ItemID="54">
+      <Name>شعلة الجدار</Name>
+	</Item>
+	<Item ItemID="55">
+      <Name>جدار الأخطبوط</Name>
+	</Item>
+	<Item ItemID="56">
+      <Name>جراج</Name>
+	</Item>
+	<Item ItemID="57">
+      <Name>باب الجراج</Name>
+	</Item>
+	<Item ItemID="58">
+      <Name>معكرونة معلبة</Name>
+	</Item>
+	<Item ItemID="59">
+      <Name>لحم مقدد معلب</Name>
+	</Item>
+	<Item ItemID="60">
+      <Name>سردين معلب</Name>
+	</Item>
+	<Item ItemID="61">
+      <Name>كلايمور</Name>
+	</Item>
+	<Item ItemID="62">
+      <Name>مصباح يدوي قابل للتثبيت</Name>
+	</Item>
+	<Item ItemID="63">
+      <Name>طرف أمامي قابل للتثبيت</Name>
+	</Item>
+	<Item ItemID="64">
+      <Name>ليزر قابل للتثبيت</Name>
+	</Item>
+	<Item ItemID="65">
+      <Name>نظارة قابلة للتثبيت</Name>
+	</Item>
+	<Item ItemID="66">
+      <Name>كاتم للصوت قابل للتثبيت</Name>
+	</Item>
+	<Item ItemID="67">
+      <Name>قنبلة أنبوبية</Name>
+	</Item>
+    <Item ItemID="68">
+      <Name>حقيبة ظهر صغيرة</Name>
+	</Item>
+	<Item ItemID="69">
+      <Name>حقيبة ظهر متوسطة</Name>
+	</Item>
+	<Item ItemID="70">
+      <Name>حقيبة ظهر كبيرة</Name>
+	</Item>
+	<Item ItemID="71">
+      <Name>حقيبة ظهر للصيد</Name>
+	</Item>
+	<Item ItemID="72">
+      <Name>حقيبة ظهر ALICE</Name>
+	</Item>
+	<Item ItemID="73">
+      <Name>ماوزر 98</Name>
+	</Item>
+	<Item ItemID="74">
+      <Name>ريمنجتون</Name>
+	</Item>
+	<Item ItemID="75">
+      <Name>النسر الصحراوي</Name>
+	</Item>
+	<Item ItemID="76">
+      <Name>بندقية ذاتية التحميل</Name>
+	</Item>
+	<Item ItemID="77">
+      <Name>بندقية مقصوصة السبطانة</Name>
+	</Item>
+	<Item ItemID="78">
+      <Name>مسدس دوار</Name>
+	</Item>
+	<Item ItemID="79">
+      <Name>مسدس دوار</Name>
+	</Item>
+	<Item ItemID="80">
+      <Name>TMPSMG</Name>
+	</Item>
+	<Item ItemID="81">
+      <Name>ذخيرة النسر الصحراوي</Name>
+	</Item>
+	<Item ItemID="82">
+      <Name>ذخيرة ماوزر / ريمنجتون</Name>
+	</Item>
+	<Item ItemID="83">
+      <Name>قذيفة جديدة</Name>
+	</Item>
+	<Item ItemID="84">
+      <Name>ذخيرة مسدس دوار</Name>
+	</Item>
+	<Item ItemID="85">
+      <Name>كاتانا</Name>
+	</Item>
+  </ItemsList>
+</Language>

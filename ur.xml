@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="ur" LangName="اردو">
+  <ReSpawn>دوبارہ پیدا ہونا</ReSpawn>
+  <ReSpawnItem>بے ترتیب ہتھیار کے ساتھ پیدا ہونا
+(ویڈیو اشتہار)</ReSpawnItem>
+  <SinglePlayer>سنگل پلیر</SinglePlayer>
+  <MultiPlayer>ملٹی پلیر</MultiPlayer>
+  <StartGame>کھیل شروع کریں</StartGame>
+  <ChooseLevel>سطح منتخب کریں</ChooseLevel>
+  <SelectLevel>سطح منتخب کریں</SelectLevel>
+  <CharacterList>کردار کی فہرست</CharacterList>
+  <NewCharacter>نیا کردار</NewCharacter>
+  <CreateNewCharacter>نیا کردار بنائیں</CreateNewCharacter>
+  <HostGame>ہوسٹ کھیل</HostGame>
+  <FindGame>کھیل تلاش کریں</FindGame>
+  <ConnectIP>آئی پی کے ساتھ جوڑیں</ConnectIP>
+  <messageCreateHost>سرور کا نام</messageCreateHost>
+  <messagePvPServer>پی وی پی (کھلاڑی دوسرے کو مار سکتے ہیں)</messagePvPServer>
+  <VisibleInServerList>دوسرے کھلاڑیوں سے ڈھانچے محفوظ کریں</VisibleInServerList>
+  <ServerList>سرور کی فہرست</ServerList>
+  <CreateGame>کھیل بنائیں</CreateGame>
+  <messageConnectIP>سرور آئی پی کے ساتھ رابطہ کریں</messageConnectIP>
+  <EnterWorld>دنیا میں داخل ہوں</EnterWorld>
+  <Inventory>انوینٹری</Inventory>
+  <Craft>کرافٹ</Craft>
+  <Items>اشیاء</Items>
+  <Use>استعمال کریں</Use>
+  <Open>کھولیں</Open>
+  <Close>بند کریں</Close>
+  <Door>دروازہ</Door>
+  <Drop>چھوڑ دو</Drop>
+  <PressPickup>اٹھانے کا بٹن دبائیں</PressPickup>
+  <Connect>جوڑیں</Connect>
+  <Join>شامل ہوں</Join>
+  <Refresh>تازہ کاری کریں</Refresh>
+  <Host>میزبان</Host>
+  <Cancel>منسوخ کریں</Cancel>
+  <Delete>حذف کریں</Delete>
+  <Select>منتخب کریں</Select>
+  <Play>کھیلیں</Play>
+  <Back>واپس</Back>
+  <Apply>درخواست دیں</Apply>
+  <Exit>باہر نکلیں</Exit>
+  <Backpack>بیک پیک</Backpack>
+  <Attach>منسلک کریں</Attach>
+  <Detach>الگ کریں</Detach>
+  <Attachs>منسلک کریں</Attachs>
+  <Player>کھلاڑی</Player>
+  <Players>کھلاڑی</Players>
+  <ViewDistance>دوری دیکھیں:</ViewDistance>
+  <CurrentQuality>کوالٹی:</CurrentQuality>
+  <ChangeLanguage>زبان:</ChangeLanguage>
+  <ChangeQuality>کوالٹی تبدیل کریں</ChangeQuality>
+  <HighQuality>اعلی</HighQuality>
+  <NormalQuality>عمومی</NormalQuality>
+  <CameraSensitivity>کیمرہ حساسیت:</CameraSensitivity>
+  <Policeman>پولیس مین</Policeman>
+  <Farmer>کسان</Farmer>
+  <SalaryMan>تنخواہ دار آدمی</SalaryMan>
+  <Girl>لڑکی</Girl>
+  <Doctor>ڈاکٹر</Doctor>
+  <Resume>دوبارہ شروع کریں</Resume>
+  <Disconnect>الگ کریں</Disconnect>
+  <MainMenu>مین مینو</MainMenu>
+  <MessageHostServer>آپ سرور کے میزبان ہیں</MessageHostServer>
+  <MessagePlayerServer>آپ آن لائن کھیل رہے ہیں</MessagePlayerServer>
+  <ConnectingToServer>سرور سے رابطہ کر رہا ہے</ConnectingToServer>
+  <ConnectionTimeout>کنکٹنگ کا وقت ختم ہوا</ConnectionTimeout>
+  <ConnectionHostLeave>میزبان نے کمرہ بند کر دیا!</ConnectionHostLeave>
+  <ConnectionFull>کمرہ پورا!</ConnectionFull>
+  <ConnectedLoadingObjects>منسلک ہوا! گیم آبجیکٹس لوڈ کر رہا ہے</ConnectedLoadingObjects>
+  <JoinedRoom>کھیل میں شامل ہوا!</JoinedRoom>
+  <LeftRoom>کھیل چھوڑ دیا!</LeftRoom>
+  <WaitMaster>ماسٹر سرور سے رابطہ کر رہا ہے</WaitMaster>
+  <ConnectedMaster>منسلک!</ConnectedMaster>
+  <ErrorMaster>رابطہ میں خرابی تھی، اپنے انٹرنیٹ کی جانچ پڑتال کریں!</ErrorMaster>
+  <Options>اختیارات</Options>
+  <ThemeMusic>فلو ریان کے مین مینو تھیم</ThemeMusic>
+  <TheMessageOfMother>کھیل میں ترمیم کا پتہ لگا!
+اصل کھیل ڈاؤن لوڈ کریں:</TheMessageOfMother>
+  <Slots>
+    <string>سلاٹ</string>
+    <string>سلاٹ</string>
+    <string>سلاٹ</string>
+  </Slots>
+  <WatchAdToCraftCoins>اشتہار دیکھیں (10 کوائن کمائیں)</WatchAdToCraftCoins>
+  <WatchAdWait>اشتہار دیکھیں (انتظار کریں، اشتہار لوڈ کر رہا ہے...)</WatchAdWait>
+  <auto>خودکار</auto>
+  <us>امریکہ، مشرقی</us>
+  <usw>امریکہ، مغربی</usw>
+  <sa>جنوبی امریکہ</sa>
+  <ru>روس</ru>
+  <rue>روس، مشرقی</rue>
+  <eu>یورپ</eu>
+  <cae>کینیڈا</cae>
+  <jp>جاپان</jp>
+  <au>آسٹریلیا</au>
+  <asia>ایشیا</asia>
+  <kr>جنوبی کوریا</kr>
+  <in>بھارت</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>پستول</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>رائفل کی گولیاں</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>ہیمر</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>کینڈ بینز</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>شوٹگن</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>سنائپر</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>بیریٹ</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>میگنم</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>شکاری شوٹگن</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>پٹی</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 ملی میٹر</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>رائفل کی گولیاں</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>شیل</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357 میگنم</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>پانی کی بوتل</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>گرینیڈ</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>کیمپ فائر</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>SMG</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50cal</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>لکڑی</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>میٹل فریگمنٹ</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>مچھیتی</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>کلہاڑی</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>کپڑا</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>فلیش لائٹ</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>بنیاد</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>کالم</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>دیوار</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>چھت</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>سیڑھی</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>کھڑکی</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>دروازہ</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>لکڑی کا سیندک</Name>
+    </Item>
+	<Item ItemID="35">
+      <Name>چھت کی سیڑھی</Name>
+	</Item>
+	<Item ItemID="36">
+      <Name>لکڑی کا دروازہ</Name>
+	</Item>
+	<Item ItemID="37">
+      <Name>سوتے کا تھیلا</Name>
+	</Item>
+	<Item ItemID="38">
+      <Name>فائر کلہاڑی</Name>
+	</Item>
+	<Item ItemID="39">
+      <Name>بیس بال کا بیٹ</Name>
+	</Item>
+	<Item ItemID="40">
+      <Name>بیس بال کا بیٹ</Name>
+	</Item>
+	<Item ItemID="41">
+      <Name>بلڈ بیگ</Name>
+	</Item>
+	<Item ItemID="42">
+      <Name>انرجی ڈرنک</Name>
+	</Item>
+	<Item ItemID="43">
+      <Name>انرجی ڈرنک</Name>
+	</Item>
+	<Item ItemID="44">
+      <Name>سیب</Name>
+	</Item>
+	<Item ItemID="45">
+      <Name>کیلا</Name>
+	</Item>
+	<Item ItemID="46">
+      <Name>چاکلیٹ بار</Name>
+	</Item>
+	<Item ItemID="47">
+      <Name>چاکلیٹ بار</Name>
+	</Item>
+	<Item ItemID="48">
+      <Name>چاکلیٹ بار</Name>
+	</Item>
+	<Item ItemID="49">
+      <Name>نارنگی</Name>
+	</Item>
+	<Item ItemID="50">
+      <Name>میڈک کٹ</Name>
+	</Item>
+	<Item ItemID="51">
+      <Name>دودھ کا کارٹن</Name>
+	</Item>
+	<Item ItemID="52">
+      <Name>انفیکشن ویکسین</Name>
+	</Item>
+	<Item ItemID="53">
+      <Name>اینٹی بائیوٹک</Name>
+	</Item>
+	<Item ItemID="54">
+      <Name>دیوار کا مشعل</Name>
+	</Item>
+	<Item ItemID="55">
+      <Name>سپائک وال</Name>
+	</Item>
+	<Item ItemID="56">
+      <Name>گیراج</Name>
+	</Item>
+	<Item ItemID="57">
+      <Name>گیراج کا دروازہ</Name>
+	</Item>
+	<Item ItemID="58">
+      <Name>کینڈ پاستا</Name>
+	</Item>
+	<Item ItemID="59">
+      <Name>کینڈ بیکن</Name>
+	</Item>
+	<Item ItemID="60">
+      <Name>کینڈ سارڈینز</Name>
+	</Item>
+	<Item ItemID="61">
+      <Name>کلیمور</Name>
+	</Item>
+	<Item ItemID="62">
+      <Name>فلیش لائٹ لگائیں</Name>
+	</Item>
+	<Item ItemID="63">
+      <Name>فورگرپ لگائیں</Name>
+	</Item>
+	<Item ItemID="64">
+      <Name>لیزر لگائیں</Name>
+	</Item>
+	<Item ItemID="65">
+      <Name>سائٹ لگائیں</Name>
+	</Item>
+	<Item ItemID="66">
+      <Name>سائلنسر لگائیں</Name>
+	</Item>
+	<Item ItemID="67">
+      <Name>پائپ بم</Name>
+	</Item>
+    <Item ItemID="68">
+      <Name>چھوٹا بیک پیک</Name>
+	</Item>
+	<Item ItemID="69">
+      <Name>درمیانہ بیک پیک</Name>
+	</Item>
+	<Item ItemID="70">
+      <Name>بڑا بیک پیک</Name>
+	</Item>
+	<Item ItemID="71">
+      <Name>شکاری بیک پیک</Name>
+	</Item>
+	<Item ItemID="72">
+      <Name>ALICE بیک پیک</Name>
+	</Item>
+	<Item ItemID="73">
+      <Name>ماؤزر 98</Name>
+	</Item>
+	<Item ItemID="74">
+      <Name>ریمنگٹن</Name>
+	</Item>
+	<Item ItemID="75">
+      <Name>ڈیزرٹ ایگل</Name>
+	</Item>
+	<Item ItemID="76">
+      <Name>شوٹگن</Name>
+	</Item>
+	<Item ItemID="77">
+      <Name>کٹا ہوا شوٹگن</Name>
+	</Item>
+	<Item ItemID="78">
+      <Name>ریوالور</Name>
+	</Item>
+	<Item ItemID="79">
+      <Name>ریوالور</Name>
+	</Item>
+	<Item ItemID="80">
+      <Name>TMPSMG</Name>
+	</Item>
+	<Item ItemID="81">
+      <Name>ڈیزرٹ ایگل کی گولیاں</Name>
+	</Item>
+	<Item ItemID="82">
+      <Name>ماؤزر / ریمنگٹن کی گولیاں</Name>
+	</Item>
+	<Item ItemID="83">
+      <Name>نئی شیل</Name>
+	</Item>
+	<Item ItemID="84">
+      <Name>ریوالور کی گولیاں</Name>
+	</Item>
+	<Item ItemID="85">
+      <Name>کٹانہ</Name>
+	</Item>
+  </ItemsList>
+</Language>

@@ -1,0 +1,361 @@
+<?xml version="1.0"?>
+<Language xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Lang="id" LangName="Indonesia">
+  <ReSpawn>Re Spawn</ReSpawn>
+  <ReSpawnItem>Spawn dengan Senjata Acak
+(Iklan Video)</ReSpawnItem>
+  <SinglePlayer>Pemain tunggal</SinglePlayer>
+  <MultiPlayer>Pemain jamak (BETA)</MultiPlayer>
+  <StartGame>Mulai Permainan</StartGame>
+  <ChooseLevel>Pilih Tingkat</ChooseLevel>
+  <SelectLevel>Pilih Tingkat</SelectLevel>
+  <CharacterList>Daftar Karakter</CharacterList>
+  <NewCharacter>Karakter Baru</NewCharacter>
+  <CreateNewCharacter>Buat Karakter Baru</CreateNewCharacter>
+  <HostGame>Host Game</HostGame>
+  <FindGame>Temukan Game</FindGame>
+  <ConnectIP>Sambungkan IP</ConnectIP>
+  <messageCreateHost>Nama Server</messageCreateHost>
+  <messagePvPServer>PvP (pemain dapat membunuh yang lain)</messagePvPServer>
+  <VisibleInServerList>Simpan struktur dari pemain lain</VisibleInServerList>
+  <ServerList>Daftar Server</ServerList>
+  <CreateGame>Buat Game</CreateGame>
+  <messageConnectIP>Sambungkan dengan IP Server</messageConnectIP>
+  <EnterWorld>Masuk Dunia</EnterWorld>
+  <Inventory>Inventaris</Inventory>
+  <Craft>Kerajinan</Craft>
+  <Items>Item</Items>
+  <Use>Gunakan</Use>
+  <Open>Buka</Open>
+  <Close>Tutup</Close>
+  <Door>Pintu</Door>
+  <Drop>Jatuhkan</Drop>
+  <PressPickup>Tekan tombol ambil</PressPickup>
+  <Connect>Sambungkan</Connect>
+  <Join>Gabung</Join>
+  <Refresh>Segarkan</Refresh>
+  <Host>Host</Host>
+  <Cancel>Batalkan</Cancel>
+  <Delete>Hapus</Delete>
+  <Select>Pilih</Select>
+  <Play>Mainkan</Play>
+  <Back>Kembali</Back>
+  <Apply>Terapkan</Apply>
+  <Exit>Keluar</Exit>
+  <Backpack>Tas ransel</Backpack>
+  <Attach>Tempelkan</Attach>
+  <Detach>Lepaskan</Detach>
+  <Attachs>Tempelkan</Attachs>
+  <Player>Pemain</Player>
+  <Players>Pemain</Players>
+  <ViewDistance>Jarak Pandang:</ViewDistance>
+  <CurrentQuality>Kualitas:</CurrentQuality>
+  <ChangeLanguage>Bahasa:</ChangeLanguage>
+  <ChangeQuality>Ubah Kualitas</ChangeQuality>
+  <HighQuality>Tinggi</HighQuality>
+  <NormalQuality>Normal</NormalQuality>
+  <CameraSensitivity>Sensitivitas Kamera:</CameraSensitivity>
+  <Policeman>Polisi</Policeman>
+  <Farmer>Petani</Farmer>
+  <SalaryMan>Pegawai</SalaryMan>
+  <Girl>Gadis</Girl>
+  <Doctor>Dokter</Doctor>
+  <Resume>Lanjutkan</Resume>
+  <Disconnect>Putuskan sambungan</Disconnect>
+  <MainMenu>Menu Utama</MainMenu>
+  <MessageHostServer>ANDA ADALAH TUAN RUMAH SERVER</MessageHostServer>
+  <MessagePlayerServer>ANDA BERMAIN ONLINE</MessagePlayerServer>
+  <ConnectingToServer>Menghubungkan ke server</ConnectingToServer>
+  <ConnectionTimeout>Waktu habis saat menghubungkan</ConnectionTimeout>
+  <ConnectionHostLeave>Tuan rumah menutup ruangan!</ConnectionHostLeave>
+  <ConnectionFull>Ruangan Penuh!</ConnectionFull>
+  <ConnectedLoadingObjects>Terkoneksi! Memuat GameObject</ConnectedLoadingObjects>
+  <JoinedRoom>bergabung dengan permainan!</JoinedRoom>
+  <LeftRoom>keluar dari permainan!</LeftRoom>
+  <WaitMaster>Menghubungkan ke server utama</WaitMaster>
+  <ConnectedMaster>Terkoneksi!</ConnectedMaster>
+  <ErrorMaster>Ada kesalahan saat menghubungkan, periksa internet Anda!</ErrorMaster>
+  <Options>Opsi</Options>
+  <ThemeMusic>Musik Tema Menu Utama oleh Flo Rian</ThemeMusic>
+  <TheMessageOfMother>Modifikasi dalam permainan terdeteksi!
+unduh game asli:</TheMessageOfMother>
+  <Slots>
+    <string>Slot</string>
+    <string>Slot</string>
+    <string>Slot</string>
+  </Slots>
+  <WatchAdToCraftCoins>Tonton Iklan (Dapatkan 10 Koin)</WatchAdToCraftCoins>
+  <WatchAdWait>Tonton Iklan (Tunggu, Memuat Iklan...)</WatchAdWait>
+  <auto>Otomatis</auto>
+  <us>AS, Timur</us>
+  <usw>AS, Barat</usw>
+  <sa>Amerika Selatan</sa>
+  <ru>Rusia</ru>
+  <rue>Rusia, Timur</rue>
+  <eu>Eropa</eu>
+  <cae>Kanada</cae>
+  <jp>Jepang</jp>
+  <au>Australia</au>
+  <asia>Asia</asia>
+  <kr>Korea Selatan</kr>
+  <in>India</in>
+  <ItemsList>
+    <Item ItemID="0">
+      <Name>AK 47</Name>
+    </Item>
+    <Item ItemID="1">
+      <Name>Pistol</Name>
+    </Item>
+    <Item ItemID="2">
+      <Name>Ammo Senapan</Name>
+    </Item>
+    <Item ItemID="3">
+      <Name>Palu</Name>
+    </Item>
+    <Item ItemID="4">
+      <Name>Kacang Kaleng</Name>
+    </Item>
+    <Item ItemID="5">
+      <Name>Senapan</Name>
+    </Item>
+    <Item ItemID="6">
+      <Name>Penembak Jitu</Name>
+    </Item>
+    <Item ItemID="7">
+      <Name>Barrett</Name>
+    </Item>
+    <Item ItemID="8">
+      <Name>M4</Name>
+    </Item>
+    <Item ItemID="9">
+      <Name>Magnum</Name>
+    </Item>
+    <Item ItemID="10">
+      <Name>Senapan Berburu</Name>
+    </Item>
+    <Item ItemID="11">
+      <Name>Perban</Name>
+    </Item>
+    <Item ItemID="12">
+      <Name>9 mm</Name>
+    </Item>
+    <Item ItemID="13">
+      <Name>Ammo Senapan</Name>
+    </Item>
+    <Item ItemID="14">
+      <Name>Shell</Name>
+    </Item>
+    <Item ItemID="15">
+      <Name>.357 Magnum</Name>
+    </Item>
+    <Item ItemID="16">
+      <Name>Botol Air</Name>
+    </Item>
+    <Item ItemID="17">
+      <Name>Granat</Name>
+    </Item>
+    <Item ItemID="18">
+      <Name>Api Unggun</Name>
+    </Item>
+    <Item ItemID="19">
+      <Name>SMG</Name>
+    </Item>
+    <Item ItemID="20">
+      <Name>50cal</Name>
+    </Item>
+    <Item ItemID="21">
+      <Name>Kayu</Name>
+    </Item>
+    <Item ItemID="22">
+      <Name>Logam Serpih</Name>
+    </Item>
+    <Item ItemID="23">
+      <Name>Machete</Name>
+    </Item>
+    <Item ItemID="24">
+      <Name>Kapak</Name>
+    </Item>
+    <Item ItemID="25">
+      <Name>Kain</Name>
+    </Item>
+    <Item ItemID="26">
+      <Name>Senter</Name>
+    </Item>
+    <Item ItemID="27">
+      <Name>Dasar</Name>
+    </Item>
+    <Item ItemID="28">
+      <Name>Kolom</Name>
+    </Item>
+    <Item ItemID="29">
+      <Name>Dinding</Name>
+    </Item>
+    <Item ItemID="30">
+      <Name>Atap</Name>
+    </Item>
+    <Item ItemID="31">
+      <Name>Tangga</Name>
+    </Item>
+    <Item ItemID="32">
+      <Name>Jendela</Name>
+    </Item>
+    <Item ItemID="33">
+      <Name>Pintu</Name>
+    </Item>
+    <Item ItemID="34">
+      <Name>Kotak Kayu</Name>
+    </Item>
+	<Item ItemID="35">
+      <Name>Tangga Atap</Name>
+	</Item>
+	<Item ItemID="36">
+      <Name>Pintu Kayu</Name>
+	</Item>
+	<Item ItemID="37">
+      <Name>Tas Tidur</Name>
+	</Item>
+	<Item ItemID="38">
+      <Name>Kapak Pemadam Kebakaran</Name>
+	</Item>
+	<Item ItemID="39">
+      <Name>Pemukul Bisbol</Name>
+	</Item>
+	<Item ItemID="40">
+      <Name>Pemukul Bisbol</Name>
+	</Item>
+	<Item ItemID="41">
+      <Name>Kantong Darah</Name>
+	</Item>
+	<Item ItemID="42">
+      <Name>Minuman Energi</Name>
+	</Item>
+	<Item ItemID="43">
+      <Name>Minuman Energi</Name>
+	</Item>
+	<Item ItemID="44">
+      <Name>Apel</Name>
+	</Item>
+	<Item ItemID="45">
+      <Name>Pisang</Name>
+	</Item>
+	<Item ItemID="46">
+      <Name>Batang Coklat</Name>
+	</Item>
+	<Item ItemID="47">
+      <Name>Batang Coklat</Name>
+	</Item>
+	<Item ItemID="48">
+      <Name>Batang Coklat</Name>
+	</Item>
+	<Item ItemID="49">
+      <Name>Jeruk</Name>
+	</Item>
+	<Item ItemID="50">
+      <Name>Kit Medis</Name>
+	</Item>
+	<Item ItemID="51">
+      <Name>Karton Susu</Name>
+	</Item>
+	<Item ItemID="52">
+      <Name>Vaksin Infeksi</Name>
+	</Item>
+	<Item ItemID="53">
+      <Name>Antibiotik</Name>
+	</Item>
+	<Item ItemID="54">
+      <Name>Obor Dinding</Name>
+	</Item>
+	<Item ItemID="55">
+      <Name>Dinding Berduri</Name>
+	</Item>
+	<Item ItemID="56">
+      <Name>Garasi</Name>
+	</Item>
+	<Item ItemID="57">
+      <Name>Pintu Garasi</Name>
+	</Item>
+	<Item ItemID="58">
+      <Name>Pasta Kaleng</Name>
+	</Item>
+	<Item ItemID="59">
+      <Name>Daging Asap Kaleng</Name>
+	</Item>
+	<Item ItemID="60">
+      <Name>Sarden Kaleng</Name>
+	</Item>
+	<Item ItemID="61">
+      <Name>Claymore</Name>
+	</Item>
+	<Item ItemID="62">
+      <Name>Lampu Senter Tambahan</Name>
+	</Item>
+	<Item ItemID="63">
+      <Name>Foregrip Tambahan</Name>
+	</Item>
+	<Item ItemID="64">
+      <Name>Laser Tambahan</Name>
+	</Item>
+	<Item ItemID="65">
+      <Name>Visir Tambahan</Name>
+	</Item>
+	<Item ItemID="66">
+      <Name>Silencer Tambahan</Name>
+	</Item>
+	<Item ItemID="67">
+      <Name>Pipebomb</Name>
+	</Item>
+    <Item ItemID="68">
+      <Name>Tas Kecil</Name>
+	</Item>
+	<Item ItemID="69">
+      <Name>Tas Sedang</Name>
+	</Item>
+	<Item ItemID="70">
+      <Name>Tas Besar</Name>
+	</Item>
+	<Item ItemID="71">
+      <Name>Tas Berburu</Name>
+	</Item>
+	<Item ItemID="72">
+      <Name>Ransel ALICE</Name>
+	</Item>
+	<Item ItemID="73">
+      <Name>Mauser 98</Name>
+	</Item>
+	<Item ItemID="74">
+      <Name>Remington</Name>
+	</Item>
+	<Item ItemID="75">
+      <Name>Desert Eagle</Name>
+	</Item>
+	<Item ItemID="76">
+      <Name>Shotgun</Name>
+	</Item>
+	<Item ItemID="77">
+      <Name>Shotgun Gergaji</Name>
+	</Item>
+	<Item ItemID="78">
+      <Name>Revolver</Name>
+	</Item>
+	<Item ItemID="79">
+      <Name>Revolver</Name>
+	</Item>
+	<Item ItemID="80">
+      <Name>TMPSMG</Name>
+	</Item>
+	<Item ItemID="81">
+      <Name>Ammo Desert Eagle</Name>
+	</Item>
+	<Item ItemID="82">
+      <Name>Ammo Mauser/Remington</Name>
+	</Item>
+	<Item ItemID="83">
+      <Name>New Shell</Name>
+	</Item>
+	<Item ItemID="84">
+      <Name>Ammo Revolver</Name>
+	</Item>
+	<Item ItemID="85">
+      <Name>Katana</Name>
+	</Item>
+  </ItemsList>
+</Language>
