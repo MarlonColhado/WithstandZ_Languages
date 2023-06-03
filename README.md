@@ -4,6 +4,12 @@
 * Spanish
 * Chinese
 * Russian
+* Bahasa Indonesia
+* Hindi
+* Arabic
+* Thai
+* French
+* German.
 
 ## Translated by
 
